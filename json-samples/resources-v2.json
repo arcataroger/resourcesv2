@@ -1,0 +1,7153 @@
+{
+  "taxonomy_legend": [
+    {
+      "vid": 56,
+      "name": "Primary Topic",
+      "machine_name": "primary_topic",
+      "weight": -10,
+      "terms": [
+        {
+          "tid": 2306,
+          "name": "Animals",
+          "weight": 0
+        },
+        {
+          "tid": 2311,
+          "name": "Behind-the-Scenes",
+          "weight": 0
+        },
+        {
+          "tid": 2316,
+          "name": "Cultures",
+          "weight": 0
+        },
+        {
+          "tid": 2321,
+          "name": "Dinosaurs",
+          "weight": 0
+        },
+        {
+          "tid": 2326,
+          "name": "Environment",
+          "weight": 0
+        },
+        {
+          "tid": 2331,
+          "name": "Fossils",
+          "weight": 0
+        },
+        {
+          "tid": 2336,
+          "name": "Gems \u0026 Minerals",
+          "weight": 0
+        },
+        {
+          "tid": 2341,
+          "name": "Meteorites",
+          "weight": 0
+        },
+        {
+          "tid": 2346,
+          "name": "Mummies",
+          "weight": 0
+        },
+        {
+          "tid": 2351,
+          "name": "Plants \u0026 Fungi",
+          "weight": 0
+        },
+        {
+          "tid": 2356,
+          "name": "Science News",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "vid": 61,
+      "name": "Series",
+      "machine_name": "series",
+      "weight": -9,
+      "terms": [
+        {
+          "tid": 2376,
+          "name": "The Brain Scoop",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "vid": 21,
+      "name": "Topic",
+      "machine_name": "topic",
+      "weight": -8,
+      "terms": {
+        "0": {
+          "tid": 1241,
+          "name": "Amphibians \u0026 Reptiles",
+          "weight": 0
+        },
+        "32": {
+          "tid": 1271,
+          "name": "Mummies",
+          "weight": 0
+        },
+        "24": {
+          "tid": 2436,
+          "name": "Gems \u0026 Minerals",
+          "weight": 0
+        },
+        "25": {
+          "tid": 1361,
+          "name": "Imaging \u0026 Scanning",
+          "weight": 0
+        },
+        "26": {
+          "tid": 1261,
+          "name": "Insects",
+          "weight": 0
+        },
+        "27": {
+          "tid": 1321,
+          "name": "Lichens",
+          "weight": 0
+        },
+        "28": {
+          "tid": 801,
+          "name": "Living Cultures",
+          "weight": 0
+        },
+        "29": {
+          "tid": 1226,
+          "name": "Mammals",
+          "weight": 0
+        },
+        "30": {
+          "tid": 1311,
+          "name": "Membership",
+          "weight": 0
+        },
+        "31": {
+          "tid": 2431,
+          "name": "Meteorites",
+          "weight": 0
+        },
+        "33": {
+          "tid": 2421,
+          "name": "Museum History",
+          "weight": 0
+        },
+        "22": {
+          "tid": 836,
+          "name": "Fossils",
+          "weight": 0
+        },
+        "34": {
+          "tid": 1351,
+          "name": "Object Conservation",
+          "weight": 0
+        },
+        "35": {
+          "tid": 1496,
+          "name": "Old World Civilizations",
+          "weight": 0
+        },
+        "36": {
+          "tid": 886,
+          "name": "Plants \u0026 Fungi",
+          "weight": 0
+        },
+        "37": {
+          "tid": 2426,
+          "name": "Research",
+          "weight": 0
+        },
+        "38": {
+          "tid": 1421,
+          "name": "Science News",
+          "weight": 0
+        },
+        "39": {
+          "tid": 1251,
+          "name": "Sharks",
+          "weight": 0
+        },
+        "40": {
+          "tid": 911,
+          "name": "Sustainability",
+          "weight": 0
+        },
+        "41": {
+          "tid": 946,
+          "name": "Women in Science",
+          "weight": 0
+        },
+        "23": {
+          "tid": 2456,
+          "name": "From the Archives",
+          "weight": 0
+        },
+        "21": {
+          "tid": 1286,
+          "name": "Flowering Plants",
+          "weight": 0
+        },
+        "1": {
+          "tid": 1491,
+          "name": "Ancient Americas",
+          "weight": 0
+        },
+        "10": {
+          "tid": 2411,
+          "name": "Community Building",
+          "weight": 0
+        },
+        "2": {
+          "tid": 761,
+          "name": "Animals",
+          "weight": 0
+        },
+        "3": {
+          "tid": 1281,
+          "name": "Archaeology",
+          "weight": 0
+        },
+        "4": {
+          "tid": 2446,
+          "name": "Behind-the-Scenes",
+          "weight": 0
+        },
+        "5": {
+          "tid": 1426,
+          "name": "Birds",
+          "weight": 0
+        },
+        "6": {
+          "tid": 2406,
+          "name": "Bryophytes",
+          "weight": 0
+        },
+        "7": {
+          "tid": 766,
+          "name": "Cephalopods",
+          "weight": 0
+        },
+        "8": {
+          "tid": 786,
+          "name": "Climate Change",
+          "weight": 0
+        },
+        "9": {
+          "tid": 791,
+          "name": "Collections",
+          "weight": 0
+        },
+        "11": {
+          "tid": 2441,
+          "name": "Cultures",
+          "weight": 0
+        },
+        "20": {
+          "tid": 1246,
+          "name": "Fish",
+          "weight": 0
+        },
+        "12": {
+          "tid": 1341,
+          "name": "Dinosaurs",
+          "weight": 0
+        },
+        "13": {
+          "tid": 1506,
+          "name": "DNA",
+          "weight": 0
+        },
+        "14": {
+          "tid": 1266,
+          "name": "Early Humans",
+          "weight": 0
+        },
+        "15": {
+          "tid": 806,
+          "name": "Education",
+          "weight": 0
+        },
+        "16": {
+          "tid": 816,
+          "name": "Environment \u0026 Conservation",
+          "weight": 0
+        },
+        "17": {
+          "tid": 821,
+          "name": "Evolution",
+          "weight": 0
+        },
+        "18": {
+          "tid": 2451,
+          "name": "Exhibition Creation",
+          "weight": 0
+        },
+        "19": {
+          "tid": 831,
+          "name": "Field Work",
+          "weight": 0
+        },
+        "42": {
+          "tid": 811,
+          "name": "Working at the Field",
+          "weight": 0
+        }
+      }
+    },
+    {
+      "vid": 1,
+      "name": "Audience",
+      "machine_name": "audience",
+      "weight": -7,
+      "terms": [
+        {
+          "tid": 21,
+          "name": "Families",
+          "weight": 0
+        },
+        {
+          "tid": 11,
+          "name": "Adults",
+          "weight": 1
+        },
+        {
+          "tid": 26,
+          "name": "Teens \u0026 Pre-teens",
+          "weight": 2
+        },
+        {
+          "tid": 2476,
+          "name": "Members",
+          "weight": 3
+        },
+        {
+          "tid": 2401,
+          "name": "Accessibility",
+          "weight": 4
+        },
+        {
+          "tid": 16,
+          "name": "Educators",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "vid": 16,
+      "name": "Grade Level (Resources)",
+      "machine_name": "grade_level",
+      "weight": -5,
+      "terms": [
+        {
+          "tid": 191,
+          "name": "Grades PK\u20132",
+          "weight": 0
+        },
+        {
+          "tid": 196,
+          "name": "Grades 3\u20135",
+          "weight": 1
+        },
+        {
+          "tid": 201,
+          "name": "Grades 6\u20138",
+          "weight": 2
+        },
+        {
+          "tid": 206,
+          "name": "Grades 9\u201312",
+          "weight": 3
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "nid": 27841,
+      "title": "Dozin\u0027 with the Dinos Info Packet",
+      "timestamp": 1561749848,
+      "body": "\u003Cp\u003EFamilies and group leaders, prepare for your night at the museum with this guide.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1545116,
+          "url": "http:\/\/localhost\/sites\/default\/files\/2020_dozinwiththedinos_infopacket_v2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 967226,
+          "timestamp": 1561749843,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 28971,
+      "title": "Dinosaur Family Tree | Dinosaur Toolkit",
+      "timestamp": 1589488137,
+      "body": "\u003Cp\u003EExamine dinosaur physical traits to identify similarities and differences in their features and construct a system of classification.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1642573,
+          "url": "http:\/\/localhost\/sites\/default\/files\/dinofamilytree_-_en.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2435493,
+          "timestamp": 1576787698,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1642572,
+          "url": "http:\/\/localhost\/sites\/default\/files\/dinofamilytree_-_es.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2524824,
+          "timestamp": 1576787672,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 28976,
+      "title": "Pump it Up | Biomechanics Toolkit",
+      "timestamp": 1589484236,
+      "body": "\u003Cp\u003ELearn how the giraffe\u2019s super-pump of a heart delivers blood seven feet up to the brain.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/vimeo.com\/87041408",
+          "title": "See English video",
+          "attributes": {
+            "target": "_blank"
+          }
+        },
+        {
+          "url": "https:\/\/vimeo.com\/84681740",
+          "title": "See Spanish video",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551,
+            2650
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 29121,
+      "title": "Tax Deductibility Calculator",
+      "timestamp": 1551979109,
+      "body": null,
+      "links": [
+        {
+          "url": "https:\/\/www.fieldmuseum.org\/sites\/default\/files\/taxdeductibilitycalculator_2019update.pdf",
+          "title": "Tax Deductibility Calculator",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 29146,
+      "title": "Ancient Americas Educator Guide",
+      "timestamp": 1590678446,
+      "body": "\u003Cp\u003EInvestigate diverse cultures across different times and geographic locations in the \u003Cem\u003EAncient Americas\u003C\/em\u003E exhibition.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 83216,
+          "url": "http:\/\/localhost\/sites\/default\/files\/jsandy\/2014\/08\/07\/educator_guide_eng.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 6703632,
+          "timestamp": 1407471252,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 83136,
+          "url": "http:\/\/localhost\/sites\/default\/files\/edguide_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 13143783,
+          "timestamp": 1407470279,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29151,
+      "title": "Grainger Hall of Gems Educator Guide",
+      "timestamp": 1590678392,
+      "body": "\u003Cp\u003EExplore the geological and cultural significance of a variety of gems.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 83186,
+          "url": "http:\/\/localhost\/sites\/default\/files\/jsandy\/2014\/08\/07\/gemseducatorguide.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1343176,
+          "timestamp": 1558035250,
+          "title": "Gems Educator Guide",
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29161,
+      "title": "Rise of Dinosaurs | Dinosaur Toolkit",
+      "timestamp": 1589488209,
+      "body": "\u003Cp\u003EAnalyze data from a mock fossil dig to determine the differences and similarities between multiple fossil dig sites.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551,
+            2546
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1642570,
+          "url": "http:\/\/localhost\/sites\/default\/files\/riseofdinos_-_en.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 6337777,
+          "timestamp": 1576787563,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1642571,
+          "url": "http:\/\/localhost\/sites\/default\/files\/riseofdinos_-_es.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 6394591,
+          "timestamp": 1576787583,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29166,
+      "title": "Neolithic Village Flyover",
+      "timestamp": 1589485000,
+      "body": "\u003Cp\u003EExplore a reconstruction of the Neolithic village of Szeghalom, which was located in eastern Hungary. Archaeological findings there signaled a shift from foraging to farming.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/vimeo.com\/220642197\/6ee3c65d40",
+          "title": "See English video",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1661782,
+          "url": "http:\/\/localhost\/sites\/default\/files\/neoilithic_flyover_video_engagement_guide_v2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 601898,
+          "timestamp": 1589484973,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29181,
+      "title": "WhyReef",
+      "timestamp": 1589487332,
+      "body": "\u003Cp\u003EDive into a virtual coral reef to discover marine life and connections between these sea creatures and what they eat.\u0026nbsp;\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "http:\/\/www.whyville.net\/smmk\/top\/gates?source=reef",
+          "title": "See English Game",
+          "attributes": {
+            "target": "_blank"
+          }
+        },
+        {
+          "url": "http:\/\/archive.fieldmuseum.org\/education\/guides\/WhyReefEducatorGuide.pdf",
+          "title": "See English Educator Guide ",
+          "attributes": {
+            "target": "_blank"
+          }
+        },
+        {
+          "url": "http:\/\/archive.fieldmuseum.org\/education\/pdfs\/WhyReef_Coloring_Book.pdf",
+          "title": "See English Coloring Book",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2606
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ]
+    },
+    {
+      "nid": 29186,
+      "title": "BIOlympics Game | Biomechanics Toolkit",
+      "timestamp": 1589487486,
+      "body": "\u003Cp\u003EJump into BIOlympics events to see how animals achieve amazing feats. Use that knowledge to choose competitors for different events.\u0026nbsp;\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "http:\/\/www.whyville.net\/smmk\/top\/gates?source=biomx",
+          "title": "See English game",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2606
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2650,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ]
+    },
+    {
+      "nid": 29191,
+      "title": "Artifact Observation Guide",
+      "timestamp": 1590677707,
+      "body": "\u003Cp\u003EEncourage close examination of a single artifact\u2014an object produced by humans\u2014using observations and inferences.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1503606,
+          "url": "http:\/\/localhost\/sites\/default\/files\/artifact_observation_field_trip_guide.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 50599,
+          "timestamp": 1557155958,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29196,
+      "title": " Specimen Observation Guide",
+      "timestamp": 1590677680,
+      "body": "\u003Cp\u003EEncourage close examination of a single specimen\u2014a collected example of a particular species or type\u2014using observations and inferences.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 507046,
+          "url": "http:\/\/localhost\/sites\/default\/files\/kcook\/2016\/04\/12\/specimen_observation_field_trip_guide.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 37453,
+          "timestamp": 1460472143,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29206,
+      "title": " What Do Animals Eat? | Exploring the Field Guide",
+      "timestamp": 1590677763,
+      "body": "\u003Cp\u003EInvestigate the relationship between an animal and its environment by identifying possible food sources in each habitat.\u0026nbsp;\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 86411,
+          "url": "http:\/\/localhost\/sites\/default\/files\/afayen\/2014\/08\/25\/what_do_animals_eat.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 5047056,
+          "timestamp": 1408981533,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626956,
+          "url": "http:\/\/localhost\/sites\/default\/files\/what_do_animals_eat_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1429864,
+          "timestamp": 1571325064,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29211,
+      "title": " Families Across Place and Time | Exploring the Field Guide",
+      "timestamp": 1590677786,
+      "body": "\u003Cp\u003EExplore similarities and differences between families across different geographic locations and time periods.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 86421,
+          "url": "http:\/\/localhost\/sites\/default\/files\/afayen\/2014\/08\/25\/families_across_place_and_time.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 6196291,
+          "timestamp": 1408981917,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626926,
+          "url": "http:\/\/localhost\/sites\/default\/files\/families_across_place_and_time_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1189301,
+          "timestamp": 1571324435,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29216,
+      "title": "Diversity of Life | Exploring the Field Guide",
+      "timestamp": 1590677816,
+      "body": "\u003Cp\u003EObserve animal dioramas to compare and contrast organisms and explore the diversity of life.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 86541,
+          "url": "http:\/\/localhost\/sites\/default\/files\/afayen\/2014\/08\/25\/diversity_of_life.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2179938,
+          "timestamp": 1408994960,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626906,
+          "url": "http:\/\/localhost\/sites\/default\/files\/diversity_of_life_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 698522,
+          "timestamp": 1571323046,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29221,
+      "title": "Chicago Before Skyscrapers | Exploring the Field Guide",
+      "timestamp": 1590677840,
+      "body": "\u003Cp\u003EObserve a local ecosystem and infer how Native Americans of the Chicago region have traditionally used these resources.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 86546,
+          "url": "http:\/\/localhost\/sites\/default\/files\/afayen\/2014\/08\/25\/chicago_before_skyscrapers.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 4259294,
+          "timestamp": 1408994960,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626896,
+          "url": "http:\/\/localhost\/sites\/default\/files\/chicago_before_skyscrapers_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 983187,
+          "timestamp": 1571322794,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29226,
+      "title": "Everything Has a Purpose | Exploring the Field Guide",
+      "timestamp": 1590677875,
+      "body": "\u003Cp\u003EExamine why plants and birds have certain features to uncover the relationship between structure and function.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 86551,
+          "url": "http:\/\/localhost\/sites\/default\/files\/afayen\/2014\/08\/25\/everything_has_a_purpose.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2019488,
+          "timestamp": 1408994960,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626911,
+          "url": "http:\/\/localhost\/sites\/default\/files\/everything_has_a_purpose_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1479152,
+          "timestamp": 1571323158,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29231,
+      "title": " Protecting Earth\u0027s Ecosystem | Exploring the Field Guide",
+      "timestamp": 1590677905,
+      "body": "\u003Cp\u003EAnalyze methods used to address environmental issues and design strategies to protect local ecosystems.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 126046,
+          "url": "http:\/\/localhost\/sites\/default\/files\/hrouleau\/2014\/12\/23\/protecting_earths_ecosystems.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1376219,
+          "timestamp": 1419356966,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626936,
+          "url": "http:\/\/localhost\/sites\/default\/files\/protecting_earths_ecosystems_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1412304,
+          "timestamp": 1571324673,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29236,
+      "title": "Exploring Cultures | Exploring the Field Guide",
+      "timestamp": 1590677931,
+      "body": "\u003Cp\u003ELook closely at artifacts to learn how culture and geography create similarities and differences between China and Egypt.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 683672,
+          "url": "http:\/\/localhost\/sites\/default\/files\/ahershberger\/2016\/10\/27\/ms.exploringcultures2016.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 778792,
+          "timestamp": 1477579118,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626931,
+          "url": "http:\/\/localhost\/sites\/default\/files\/ms.exploringcultures2016_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 384866,
+          "timestamp": 1571324582,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29241,
+      "title": "Hominid Adaptations | Exploring the Field Guide",
+      "timestamp": 1590677954,
+      "body": "\u003Cp\u003EInvestigate fossil remains of hominids to learn how humans and our relatives evolved over time.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 86566,
+          "url": "http:\/\/localhost\/sites\/default\/files\/afayen\/2014\/08\/25\/hominid_adaptations.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2953907,
+          "timestamp": 1408994960,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626891,
+          "url": "http:\/\/localhost\/sites\/default\/files\/hominid_adaptations_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1433789,
+          "timestamp": 1571322097,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29246,
+      "title": "Relationships in Ecosystems | Exploring the Field Guide",
+      "timestamp": 1590677977,
+      "body": "\u003Cp\u003EInvestigate an ecosystem by observing the individual organisms as part of a larger structure\u2014a food web.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 86571,
+          "url": "http:\/\/localhost\/sites\/default\/files\/afayen\/2014\/08\/25\/relationships_in_ecosystems.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2306761,
+          "timestamp": 1408994960,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626941,
+          "url": "http:\/\/localhost\/sites\/default\/files\/relationships_in_ecosystems_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1232638,
+          "timestamp": 1571324769,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29251,
+      "title": "Conservation in Action | Exploring the Field Guide",
+      "timestamp": 1590678022,
+      "body": "\u003Cp\u003EExamine different ways that scientists and community members conserve the environment, then analyze the results.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2551,
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 126051,
+          "url": "http:\/\/localhost\/sites\/default\/files\/hrouleau\/2014\/12\/23\/conservation_in_action.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2077489,
+          "timestamp": 1419356966,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626901,
+          "url": "http:\/\/localhost\/sites\/default\/files\/conservation_in_action_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1053954,
+          "timestamp": 1571322939,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29256,
+      "title": " Survival of the Birds | Exploring the Field Guide",
+      "timestamp": 1590678043,
+      "body": "\u003Cp\u003EInfer whether a bird can survive in a specific environment by observing physical features such as beak, feathers, legs, and feet.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1574081,
+          "url": "http:\/\/localhost\/sites\/default\/files\/survival_of_the_birds.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2292591,
+          "timestamp": 1565211214,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626951,
+          "url": "http:\/\/localhost\/sites\/default\/files\/survival_of_the_birds_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1112762,
+          "timestamp": 1571324972,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29261,
+      "title": "Societies in the Ancient Americas | Exploring the Field Guide",
+      "timestamp": 1590678068,
+      "body": "\u003Cp\u003EObserve six types of societies that developed in the Americas in response to specific environmental conditions.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 86586,
+          "url": "http:\/\/localhost\/sites\/default\/files\/afayen\/2014\/08\/25\/societies_of_the_ancient_americas.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2289331,
+          "timestamp": 1408994960,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626946,
+          "url": "http:\/\/localhost\/sites\/default\/files\/societies_of_the_ancient_americas_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1068495,
+          "timestamp": 1571324859,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29266,
+      "title": "Exploring Artifacts from the Pacific | Exploring the Field Guide",
+      "timestamp": 1590678092,
+      "body": "\u003Cp\u003EObserve and analyze artifacts from the Pacific Islands to develop evidence-based claims about how these cultures view the world.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 86591,
+          "url": "http:\/\/localhost\/sites\/default\/files\/afayen\/2014\/08\/25\/exploring_artifacts_from_the_pacific.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2220029,
+          "timestamp": 1408994960,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1626921,
+          "url": "http:\/\/localhost\/sites\/default\/files\/exploring_artifacts_from_the_pacific_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1005698,
+          "timestamp": 1571324306,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29271,
+      "title": "Plate Motion Past and Present | Dinosaur Toolkit",
+      "timestamp": 1589489143,
+      "body": "\u003Cp\u003EAnalyze and interpret data about the structures of Earth\u2019s crust and the fossil record.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1642556,
+          "url": "http:\/\/localhost\/sites\/default\/files\/platemotions-en.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 19586959,
+          "timestamp": 1576786819,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1642557,
+          "url": "http:\/\/localhost\/sites\/default\/files\/platemotions-_es.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 19634140,
+          "timestamp": 1576786929,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29281,
+      "title": "Archaeological Footprint | China Toolkit",
+      "timestamp": 1589488113,
+      "body": "\u003Cp\u003EAnalyze how we learn about history through objects and theorize what gaps can exist in object-based stories.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 459146,
+          "url": "http:\/\/localhost\/sites\/default\/files\/archaeological_footprint.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 484084,
+          "timestamp": 1478728172,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465441,
+          "url": "http:\/\/localhost\/sites\/default\/files\/archaeological_f_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 483127,
+          "timestamp": 1478728184,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29286,
+      "title": "Exploring Language | China Toolkit",
+      "timestamp": 1589488166,
+      "body": "\u003Cp\u003EExplore the history of writing in China by drawing conclusions about the impact of the written word on human civilizations and how language changes over time.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 459151,
+          "url": "http:\/\/localhost\/sites\/default\/files\/language.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 370609,
+          "timestamp": 1469212260,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465446,
+          "url": "http:\/\/localhost\/sites\/default\/files\/language_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 467810,
+          "timestamp": 1469212757,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29291,
+      "title": "Confucianism, Daoism, Buddhism | China Toolkit",
+      "timestamp": 1589488204,
+      "body": "\u003Cp\u003EExplore three major belief systems in China\u2014Buddhism, Confucianism, and Daoism\u2014through art and artifacts.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 459156,
+          "url": "http:\/\/localhost\/sites\/default\/files\/lifeways.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 661407,
+          "timestamp": 1469212278,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465451,
+          "url": "http:\/\/localhost\/sites\/default\/files\/lifeways_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 544230,
+          "timestamp": 1469212738,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29296,
+      "title": "Maps | China Toolkit",
+      "timestamp": 1589486928,
+      "body": "\u003Cp\u003EAnalyze maps to draw conclusions about their purpose, audience, and potential bias.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 459161,
+          "url": "http:\/\/localhost\/sites\/default\/files\/maps.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2256213,
+          "timestamp": 1469212346,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465456,
+          "url": "http:\/\/localhost\/sites\/default\/files\/maps_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1556256,
+          "timestamp": 1469212722,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29301,
+      "title": "Structure and Function | China Toolkit",
+      "timestamp": 1589555709,
+      "body": "\u003Cp\u003EAnalyze early Chinese objects to understand how an object is designed or structured is related to its function.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2650,
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 459166,
+          "url": "http:\/\/localhost\/sites\/default\/files\/materials.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 450744,
+          "timestamp": 1469212364,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465461,
+          "url": "http:\/\/localhost\/sites\/default\/files\/materials_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 411703,
+          "timestamp": 1469212700,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29306,
+      "title": "Exploring Objects | China Toolkit",
+      "timestamp": 1589487008,
+      "body": "\u003Cp\u003EAnalyze objects using varied lenses, including anthropology, history, economics, geography, and art history.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 459171,
+          "url": "http:\/\/localhost\/sites\/default\/files\/objects.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 625182,
+          "timestamp": 1478728000,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465466,
+          "url": "http:\/\/localhost\/sites\/default\/files\/objects_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 540948,
+          "timestamp": 1478728044,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29311,
+      "title": "Outsiders Inside | China Toolkit",
+      "timestamp": 1589483051,
+      "body": "\u003Cp\u003EAnalyze the concept of \u201coutsiders,\u201d or ethnic minorities, in Chinese history through artifacts and connect the concept to present experiences.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 459176,
+          "url": "http:\/\/localhost\/sites\/default\/files\/outsiders.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1543114,
+          "timestamp": 1469212455,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465471,
+          "url": "http:\/\/localhost\/sites\/default\/files\/outsiders_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1190111,
+          "timestamp": 1469212670,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29331,
+      "title": "Investigating the Qingming Scroll | China Toolkit",
+      "timestamp": 1589486965,
+      "body": "\u003Cp\u003ELearn about the contradictions depicted in the Qingming Scroll and compare it with present-day representations of idealized societies.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 459181,
+          "url": "http:\/\/localhost\/sites\/default\/files\/qingming.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1059302,
+          "timestamp": 1469212476,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465476,
+          "url": "http:\/\/localhost\/sites\/default\/files\/qingming_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 767476,
+          "timestamp": 1469212651,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29336,
+      "title": "Testing the Scholars | China Toolkit",
+      "timestamp": 1589483108,
+      "body": "\u003Cp\u003EExplore the classical Chinese civil service exam system, compare it to current exam systems, and develop a sense of what it means to be qualified for a role.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 459186,
+          "url": "http:\/\/localhost\/sites\/default\/files\/scholar.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 473075,
+          "timestamp": 1469213497,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465496,
+          "url": "http:\/\/localhost\/sites\/default\/files\/scholar_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 421930,
+          "timestamp": 1469212632,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29346,
+      "title": "Read, Watch, Listen, Visit: Student Resource List | China Toolkit",
+      "timestamp": 1590678144,
+      "body": "\u003Cp\u003EExplore more ways to learn about China with your students.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2649
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 467206,
+          "url": "http:\/\/localhost\/sites\/default\/files\/resources.students.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 159267,
+          "timestamp": 1469212434,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 465486,
+          "url": "http:\/\/localhost\/sites\/default\/files\/resources.students_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 151282,
+          "timestamp": 1469212834,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29351,
+      "title": "Evidence in the Unwritten | China Toolkit",
+      "timestamp": 1589484718,
+      "body": "\u003Cp\u003EInvestigate the role of an archaeologist and discover the types of questions that drive their work. Spanish subtitles available.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/vimeo.com\/188170558\/71d99d4cd2",
+          "title": "See English video",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1661780,
+          "url": "http:\/\/localhost\/sites\/default\/files\/evidence_in_the_un-written_video_engagement_guide_v2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 573978,
+          "timestamp": 1589484691,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29356,
+      "title": "Ask an Artifact | China Toolkit",
+      "timestamp": 1589485166,
+      "body": "\u003Cp\u003EDiscover what you can learn from the objects all around us when you look carefully and apply a specific disciplinary lens. Spanish subtitles available.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/vimeo.com\/188169481\/3347004c82",
+          "title": "See English video",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1661777,
+          "url": "http:\/\/localhost\/sites\/default\/files\/ask_an_artifact_video_engagement_guide_v2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 250233,
+          "timestamp": 1589484329,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29361,
+      "title": " Dome Strength | Biomechanics Toolkit",
+      "timestamp": 1589484236,
+      "body": "\u003Cp\u003EDiscover how much force a seemingly brittle object like an egg can withstand when it\u2019s dome-shaped.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551,
+            2650
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1462981,
+          "url": "http:\/\/localhost\/sites\/default\/files\/bioguide-dome_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 426152,
+          "timestamp": 1552592665,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1462986,
+          "url": "http:\/\/localhost\/sites\/default\/files\/bioguide-dome_spanish_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 333648,
+          "timestamp": 1552592665,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29366,
+      "title": "Muscle Model | Biomechanics Toolkit",
+      "timestamp": 1589487080,
+      "body": "\u003Cp\u003EExplore factors affecting muscle strength using simple models.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2650,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1462991,
+          "url": "http:\/\/localhost\/sites\/default\/files\/bioguide-musclemodel_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 274441,
+          "timestamp": 1552592816,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1462996,
+          "url": "http:\/\/localhost\/sites\/default\/files\/bioguide-musclemodel3_spanish_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 237083,
+          "timestamp": 1552592816,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29371,
+      "title": "Bergmann\u0027s Rule | Biomechanics Toolkit",
+      "timestamp": 1589484236,
+      "body": "\u003Cp\u003EUncover how an animal\u2019s size affects its ability to regulate temperature.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551,
+            2650
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1463006,
+          "url": "http:\/\/localhost\/sites\/default\/files\/bioguide-bergmanns_rule_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 224042,
+          "timestamp": 1552592980,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1463001,
+          "url": "http:\/\/localhost\/sites\/default\/files\/bergmanns_rule2_spanish_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 201498,
+          "timestamp": 1552592980,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29376,
+      "title": "Advantages of Levers | Biomechanics Toolkit",
+      "timestamp": 1589484236,
+      "body": "\u003Cp\u003ETest basic lever types and explore the trade-off between a force advantage and speed advantage in the animal world.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551,
+            2650
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1463011,
+          "url": "http:\/\/localhost\/sites\/default\/files\/bioguide-levers_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 693785,
+          "timestamp": 1552593361,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1463016,
+          "url": "http:\/\/localhost\/sites\/default\/files\/bioguide-levers3_spanish_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 419633,
+          "timestamp": 1552593385,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29381,
+      "title": "Giraffe Heart Dissection | Biomechanics Toolkit",
+      "timestamp": 1589485261,
+      "body": "\u003Cp\u003EGo behind the scenes in our mammals wet lab to watch the dissection of a giraffe heart.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/vimeo.com\/87041409",
+          "title": "See English video",
+          "attributes": {
+            "target": "_blank"
+          }
+        },
+        {
+          "url": "https:\/\/vimeo.com\/86938824",
+          "title": "See Spanish video",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2650,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ]
+    },
+    {
+      "nid": 29386,
+      "title": "Thermoregulation Design Challenge | Biomechanics Toolkit",
+      "timestamp": 1589485337,
+      "body": "\u003Cp\u003EUse animal thermoregulation as inspiration to design an eco-friendly dwelling that stays warm in the winter and\/or cool in the summer.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2650,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1463081,
+          "url": "http:\/\/localhost\/sites\/default\/files\/thermoregulation.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 169843,
+          "timestamp": 1552594262,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1463071,
+          "url": "http:\/\/localhost\/sites\/default\/files\/thermoregulation3_0_1.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 163347,
+          "timestamp": 1552594237,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29391,
+      "title": "Locomotion Design Challenge | Biomechanics Toolkit",
+      "timestamp": 1589485511,
+      "body": "\u003Cp\u003EUse animal movement as inspiration to design a new vehicle for traveling\u0026nbsp;via land, water, and air.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2650,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1463061,
+          "url": "http:\/\/localhost\/sites\/default\/files\/locomotion.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 168626,
+          "timestamp": 1552593704,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1463066,
+          "url": "http:\/\/localhost\/sites\/default\/files\/locomotion3_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 162810,
+          "timestamp": 1552593704,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29396,
+      "title": "Senses Design Challenge | Biomechanics Toolkit",
+      "timestamp": 1589485569,
+      "body": "\u003Cp\u003EUse animal senses as inspiration to design a way for humans to use their senses differently or use a new sense.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2650,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1463091,
+          "url": "http:\/\/localhost\/sites\/default\/files\/senses.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 168530,
+          "timestamp": 1552594637,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1463096,
+          "url": "http:\/\/localhost\/sites\/default\/files\/senses3_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 162501,
+          "timestamp": 1552594653,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29401,
+      "title": "Forces Design Challenge | Biomechanics Toolkit",
+      "timestamp": 1589485616,
+      "body": "\u003Cp\u003EUse animal structure and function to design a way that humans can reduce the force felt and\/or energy absorbed by an object.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2650,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1463111,
+          "url": "http:\/\/localhost\/sites\/default\/files\/forces.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 168655,
+          "timestamp": 1552594761,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1463116,
+          "url": "http:\/\/localhost\/sites\/default\/files\/forces3_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 162904,
+          "timestamp": 1552594780,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29486,
+      "title": "Island Evolution",
+      "timestamp": 1589489682,
+      "body": "\u003Cp\u003EDiscover why islands contain so many unique species.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/www.youtube.com\/watch?v=h2TGFZQMh-Y\u0026feature=youtu.be",
+          "title": "See English video",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1661773,
+          "url": "http:\/\/localhost\/sites\/default\/files\/island_evolution_video_engagement_guide_v2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 256069,
+          "timestamp": 1589483717,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29491,
+      "title": "Mammal Phylogeny",
+      "timestamp": 1589486341,
+      "body": "\u003Cp\u003EDiscover how scientists classify the diverse mammals found on Earth.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/vimeo.com\/203209895",
+          "title": "See English video",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ]
+    },
+    {
+      "nid": 29496,
+      "title": "Being Big on Land",
+      "timestamp": 1589486387,
+      "body": "\u003Cp\u003ELearn why being big isn\u2019t always an advantage and find out how mythic creatures like Godzilla and King Kong could never have carried their own weight.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/vimeo.com\/86741231",
+          "title": "See English video",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1661778,
+          "url": "http:\/\/localhost\/sites\/default\/files\/being_big_on_land_video_engagement_guide_v2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 420311,
+          "timestamp": 1589484463,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29501,
+      "title": "The Brain Scoop: The Taxonomy of Candy",
+      "timestamp": 1591645821,
+      "body": "\u003Cp\u003EScientists use a system called taxonomy to group and categorize living things. What happens when you try to apply taxonomy to candy?\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/www.youtube.com\/watch?v=t3amU3RrX9g\u0026feature=youtu.be",
+          "title": "See English video",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ]
+    },
+    {
+      "nid": 29506,
+      "title": "The Field Revealed: Tully Monster",
+      "timestamp": 1589486503,
+      "body": "\u003Cp\u003EDiscover the Tully Monster, the state fossil of Illinois.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/www.youtube.com\/watch?v=m1eKn13yhGY\u0026feature=youtu.be",
+          "title": "See English video",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 0,
+          "url": "http:\/\/localhost\/",
+          "filemime": null,
+          "filesize": 0,
+          "timestamp": 0,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29511,
+      "title": "The Brain Scoop: Tully Monster Mystery Solved!",
+      "timestamp": 1589487519,
+      "body": "\u003Cp\u003ELearn how researchers discovered the Tully Monster, long believed to be an invertebrate (similar to worms), is actually a vertebrate and more closely related to fish.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/www.youtube.com\/watch?v=8LowDigO3w8\u0026feature=youtu.be",
+          "title": "See English video",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1661776,
+          "url": "http:\/\/localhost\/sites\/default\/files\/tully_monster_mystery_solved_video_guide_v2_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 337499,
+          "timestamp": 1589484255,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29516,
+      "title": "From the Field to the Field Museum",
+      "timestamp": 1589486700,
+      "body": "\u003Cp\u003EPrepare for a field trip or object study by learning how the Field Museum collects and studies specimens and artifacts from around the world.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/vimeo.com\/59266996",
+          "title": "See English video",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2631
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551,
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1661781,
+          "url": "http:\/\/localhost\/sites\/default\/files\/from_field_to_field_video_engagement_guide_v2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 572611,
+          "timestamp": 1589484863,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29526,
+      "title": "Plants of the World Exhibition Guide",
+      "timestamp": 1590678417,
+      "body": "\u003Cp\u003EObserve intricate plant models to determine the functions of their unique structures.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551,
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 83196,
+          "url": "http:\/\/localhost\/sites\/default\/files\/jsandy\/2014\/08\/07\/planthalleducatorguide_final_1.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2827882,
+          "timestamp": 1407470899,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29591,
+      "title": "Animal Survival Unit | Early Elementary Science Partnership",
+      "timestamp": 1589489288,
+      "body": "\u003Cp\u003EAct as consultants to the City of Chicago and assess their relocation plan for urban coyotes.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191,
+            196
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1484736,
+          "url": "http:\/\/localhost\/sites\/default\/files\/animal_survival_final.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 15851811,
+          "timestamp": 1555006689,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29596,
+      "title": "Pollination Unit | Early Elementary Science Partnership",
+      "timestamp": 1589487921,
+      "body": "\u003Cp\u003EInteract with various models to explore the structures of plants and animals related to the process of pollination.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2551,
+            2641
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1484751,
+          "url": "http:\/\/localhost\/sites\/default\/files\/pollination_final.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 38365301,
+          "timestamp": 1555007038,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29601,
+      "title": "Structure Function Unit | Early Elementary Science Partnership",
+      "timestamp": 1589915006,
+      "body": "\u003Cp\u003EDesign a shoe appropriate for the icy, wet, and cold conditions of Antarctica using different types of bird feet as inspiration.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2650,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1484761,
+          "url": "http:\/\/localhost\/sites\/default\/files\/structure_function_final_1.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 8868644,
+          "timestamp": 1555007163,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29606,
+      "title": "Mapping and Monarchs Unit | Early Elementary Science Partnership",
+      "timestamp": 1589489261,
+      "body": "\u003Cp\u003ELearn how to analyze and interpret maps by studying monarch butterfly migration.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1484766,
+          "url": "http:\/\/localhost\/sites\/default\/files\/mapping_and_monarchs_final.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 13788744,
+          "timestamp": 1555007626,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29611,
+      "title": "The Night Sky Unit | Early Elementary Science Partnership",
+      "timestamp": 1589487743,
+      "body": "\u003Cp\u003EUse night sky patterns found in folktales from around the world to explore observable patterns of the moon and stars.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2641
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1484771,
+          "url": "http:\/\/localhost\/sites\/default\/files\/night_sky_final_1.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 14595447,
+          "timestamp": 1555007766,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29616,
+      "title": "Pre-K Weather Unit | Early Elementary Science Partnership",
+      "timestamp": 1589489375,
+      "body": "\u003Cp\u003EObserve and record weather to build a common understanding of observable weather conditions in the fall in Chicago. Then make recommendations about how SUE should prepare to play outside.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1484796,
+          "url": "http:\/\/localhost\/sites\/default\/files\/weather_unit_final_1_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 28398359,
+          "timestamp": 1555007895,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29621,
+      "title": "Kindergarten Weather Unit | Early Elementary Science Partnership",
+      "timestamp": 1589489307,
+      "body": "\u003Cp\u003EListen to the book \u003Cem\u003ECloudy with a Chance of Meatballs\u003C\/em\u003E and draw comparisons between weather forecasting and responses in Chicago and the fictional town of Chewandswallow.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1490246,
+          "url": "http:\/\/localhost\/sites\/default\/files\/weather_unit_final_k.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 10207949,
+          "timestamp": 1555614694,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29671,
+      "title": "Giants from the Past | Dinosaur Toolkit",
+      "timestamp": 1589489164,
+      "body": "\u003Cp\u003EAnalyze and interpret data about sauropods and build a nonfiction narrative about how this group of dinosaurs evolved over millions of years.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1642554,
+          "url": "http:\/\/localhost\/sites\/default\/files\/giants_from_the_past_-_en_1.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 14966123,
+          "timestamp": 1576786417,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1642555,
+          "url": "http:\/\/localhost\/sites\/default\/files\/giants_from_the_past_-_es_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 15562451,
+          "timestamp": 1576786455,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29676,
+      "title": "Rock Clocks Primer | Dinosaur Toolkit",
+      "timestamp": 1589489037,
+      "body": "\u003Cp\u003EDiscover how scientists determine the age of rocks and fossils and use those processes to develop a timeline of Earth\u0027s history.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1642561,
+          "url": "http:\/\/localhost\/sites\/default\/files\/rockclocks-_en.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 23966098,
+          "timestamp": 1576787117,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1642560,
+          "url": "http:\/\/localhost\/sites\/default\/files\/rockclocks-_es.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 23971183,
+          "timestamp": 1576787096,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29681,
+      "title": "What are Fossils Primer | Dinosaur Toolkit",
+      "timestamp": 1589488920,
+      "body": "\u003Cp\u003EExplore how fossils form and discover how scientists know where to find them.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1642564,
+          "url": "http:\/\/localhost\/sites\/default\/files\/whatarefossils_-_en_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 25364188,
+          "timestamp": 1576787345,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1642565,
+          "url": "http:\/\/localhost\/sites\/default\/files\/whatarefossils_-_es_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 25371308,
+          "timestamp": 1576787369,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29686,
+      "title": "Who were Dinosaurs? Primer | Dinosaur Toolkit",
+      "timestamp": 1589488954,
+      "body": "\u003Cp\u003EUncover the features that all dinosaurs share, and determine whether a mystery species is a dinosaur.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1642562,
+          "url": "http:\/\/localhost\/sites\/default\/files\/whoaredinos_-_en_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 36633166,
+          "timestamp": 1576787221,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1642563,
+          "url": "http:\/\/localhost\/sites\/default\/files\/whoaredinos_-_es_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 36638747,
+          "timestamp": 1576787253,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29691,
+      "title": "SUE\u0027s World | Dinosaur Toolkit",
+      "timestamp": 1589489101,
+      "body": "\u003Cp\u003EUse fossils as clues to rebuild a North American landscape from the past and imagine the world where SUE the \u003Cem\u003ET. rex\u003C\/em\u003E lived.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1642558,
+          "url": "http:\/\/localhost\/sites\/default\/files\/suesworld_-_en_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 15339139,
+          "timestamp": 1576786995,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1642559,
+          "url": "http:\/\/localhost\/sites\/default\/files\/suesworld_-_es_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 15360143,
+          "timestamp": 1576787018,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29696,
+      "title": "Today\u0027s Dinosaurs | Dinosaur Toolkit",
+      "timestamp": 1589487663,
+      "body": "\u003Cp\u003EExplore evidence in the physical features of living animals and dinosaur fossils to learn what living animal is most closely related to dinosaurs.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2616
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1642567,
+          "url": "http:\/\/localhost\/sites\/default\/files\/todays_dinosaurs_-_en.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 17815444,
+          "timestamp": 1576787474,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1642566,
+          "url": "http:\/\/localhost\/sites\/default\/files\/todays_dinosaurs_-_es.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 18431531,
+          "timestamp": 1576787453,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29706,
+      "title": "Exhibition Investigation Guide",
+      "timestamp": 1590677647,
+      "body": "\u003Cp\u003EInvestigate a museum exhibition using the claim, evidence, reasoning cycle.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1490071,
+          "url": "http:\/\/localhost\/sites\/default\/files\/exhibit_exploration_field_trip_guide.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 74605,
+          "timestamp": 1555606749,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29771,
+      "title": "Members\u0027 Nights Guide",
+      "timestamp": 1557151378,
+      "body": "\u003Cp\u003ESee what you can explore behind the scenes during our annual Members\u0027 Nights.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1503581,
+          "url": "http:\/\/localhost\/sites\/default\/files\/members_nights_guide_2019_english.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 5600483,
+          "timestamp": 1557150213,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1503586,
+          "url": "http:\/\/localhost\/sites\/default\/files\/members_nights_guide_2019_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 5679262,
+          "timestamp": 1557150282,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29926,
+      "title": "Mission to the Mesozoic ",
+      "timestamp": 1591635209,
+      "body": "\u003Cp\u003EFind plants and animals across the Triassic, Jurassic, and Cretaceous time periods in this online game.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/mesomission.fieldmuseum.org\/",
+          "title": "Play game (English)",
+          "attributes": {
+            "target": "_blank"
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2606
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1526021,
+          "url": "http:\/\/localhost\/sites\/default\/files\/missiontothemesozoic_story_english.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 55134,
+          "timestamp": 1559677873,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1526016,
+          "url": "http:\/\/localhost\/sites\/default\/files\/missiontothemesozoic_story_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 58178,
+          "timestamp": 1559677873,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 29966,
+      "title": "Tour Operator Planning Packet ",
+      "timestamp": 1559937937,
+      "body": "\u003Cp\u003EAccess the museum information you need for your tour group.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1528481,
+          "url": "http:\/\/localhost\/sites\/default\/files\/touroperatorplanningpacket.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 3303847,
+          "timestamp": 1559936751,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29971,
+      "title": "Out-of-State School Planning Packet",
+      "timestamp": 1559937411,
+      "body": "\u003Cp\u003ECraft the perfect field trip to the museum for your students.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1528486,
+          "url": "http:\/\/localhost\/sites\/default\/files\/outofstateschoolplanningpacket.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 3402523,
+          "timestamp": 1559936835,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 29976,
+      "title": "Group Leader Planning Packet",
+      "timestamp": 1559937787,
+      "body": "\u003Cp\u003EGet the details for your group as they\u0026nbsp;explore the museum.\u0026nbsp;\u0026nbsp;\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1528491,
+          "url": "http:\/\/localhost\/sites\/default\/files\/groupplanningpacket.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 3372808,
+          "timestamp": 1559936984,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30346,
+      "title": "3D Model: Tyrannosaurus rex | Dinosaur Toolkit",
+      "timestamp": 1590677514,
+      "body": "\u003Cp\u003EInteract with this 3D model to find out what we can learn about SUE the \u003Cem\u003ET. \u003C\/em\u003E\u003Cem\u003Erex\u003C\/em\u003E\u0027s life by looking at its fossils, then test your knowledge\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "\/educators\/learning-resources\/3d-model-tyrannosaurus-rex",
+          "title": "See English interactive",
+          "attributes": {
+            "target": 0
+          }
+        },
+        {
+          "url": "\/educators\/learning-resources\/3d-model-tyrannosaurus-rex-spanish",
+          "title": "See Spanish interactive",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2611
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191,
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ]
+    },
+    {
+      "nid": 30351,
+      "title": "3D Model: Cryolophosaurus Skull | Dinosaur Toolkit",
+      "timestamp": 1590677474,
+      "body": "\u003Cp\u003EUse this 3D model to see how scientists reconstruct animals like \u003Cem\u003ECryolophosaurus\u003C\/em\u003E from the fossil record.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "\/educators\/learning-resources\/3d-model-cryolophosaurus-skull",
+          "title": "See English interactive",
+          "attributes": {
+            "target": 0
+          }
+        },
+        {
+          "url": "\/educators\/learning-resources\/3d-model-cryolophosaurus-skull-spanish",
+          "title": "See Spanish interactive",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2611
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191,
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ]
+    },
+    {
+      "nid": 30356,
+      "title": "3D Model: Glacialisaurus Foot | Dinosaur Toolkit",
+      "timestamp": 1590677494,
+      "body": "\u003Cp\u003ELearn how the first giant dinosaurs like \u003Cem\u003EGlacialisaurus\u003C\/em\u003E moved by exploring this 3D model.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "\/educators\/learning-resources\/3d-model-glacialisaurus-foot",
+          "title": "See English interactive",
+          "attributes": {
+            "target": 0
+          }
+        },
+        {
+          "url": "\/educators\/learning-resources\/3d-model-glacialisaurus-foot-spanish",
+          "title": "See Spanish interactive",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2611
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191,
+            196,
+            201,
+            206
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2651
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642,
+            2643
+          ]
+        }
+      ]
+    },
+    {
+      "nid": 30381,
+      "title": "Monarchs Legend Story and Coloring Book",
+      "timestamp": 1565111735,
+      "body": "\u003Cp\u003ERead \u003Cem\u003EThe Legend of the Par\u00e1kata\u003C\/em\u003E or color your own version of the story!\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2611
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191,
+            196
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576,
+            2581
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1573501,
+          "url": "http:\/\/localhost\/sites\/default\/files\/monarchs_book_english.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 32592864,
+          "timestamp": 1565111664,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1573496,
+          "url": "http:\/\/localhost\/sites\/default\/files\/monarchs_book_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 29308552,
+          "timestamp": 1565111624,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 30386,
+      "title": "Monarch Habitat Guide",
+      "timestamp": 1565123511,
+      "body": "\u003Cp\u003EIdentify the plants that welcome monarchs, as well as the butterfly\u2019s different life stages.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/fieldguides.fieldmuseum.org\/guides\/guide\/878",
+          "title": "",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 30561,
+      "title": "A Celebration of Souls Tour Schedule ",
+      "timestamp": 1568042148,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1599577,
+          "url": "http:\/\/localhost\/sites\/default\/files\/dotd_tour_schedule_8.16.19-revised.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 390900,
+          "timestamp": 1568042143,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30566,
+      "title": "A Celebration of Souls Fact Sheet",
+      "timestamp": 1567523549,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1533151,
+          "url": "http:\/\/localhost\/sites\/default\/files\/day_of_dead_brochure_2019_web.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1406656,
+          "timestamp": 1560436753,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30591,
+      "title": "Antarctic Dinosaurs Fact Sheet",
+      "timestamp": 1588967955,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1660977,
+          "url": "http:\/\/localhost\/sites\/default\/files\/antarcticdinosaursfactsheet.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1748462,
+          "timestamp": 1588967754,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30596,
+      "title": "Antarctic Dinosaurs Tour Schedule",
+      "timestamp": 1591888110,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1665231,
+          "url": "http:\/\/localhost\/sites\/default\/files\/antarctic_dinosaurs_tour_schedule_6.5.20.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 84724,
+          "timestamp": 1591888067,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30601,
+      "title": "Antarctic Dinosaurs Exhibition Overview",
+      "timestamp": 1567696295,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1596386,
+          "url": "http:\/\/localhost\/sites\/default\/files\/antarcticdinosaursprospectus1.23.19small_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 9471913,
+          "timestamp": 1567696284,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30606,
+      "title": "Aps\u00e1alooke Women and Warriors Fact Sheet",
+      "timestamp": 1587567834,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1596476,
+          "url": "http:\/\/localhost\/sites\/default\/files\/aww_brochure_2019_web_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1367001,
+          "timestamp": 1567697782,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30626,
+      "title": "Aps\u00e1alooke Women and Warriors Tour Schedule",
+      "timestamp": 1591885665,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1665228,
+          "url": "http:\/\/localhost\/sites\/default\/files\/apsaalooke_tour_schedule_6.5.20.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 81263,
+          "timestamp": 1591885442,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30631,
+      "title": "Biomechanics Fact Sheet",
+      "timestamp": 1567698308,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1596491,
+          "url": "http:\/\/localhost\/sites\/default\/files\/the_machine_inside_fact_sheet_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 283038,
+          "timestamp": 1567698298,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30636,
+      "title": "Biomechanics Tour Schedule",
+      "timestamp": 1591888280,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1665233,
+          "url": "http:\/\/localhost\/sites\/default\/files\/biomechanics_schedule_7500_6.5.20.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 157228,
+          "timestamp": 1591888238,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30641,
+      "title": "Biomechanics Exhibition Overview",
+      "timestamp": 1567698423,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1423576,
+          "url": "http:\/\/localhost\/sites\/default\/files\/biomechanics7500prospectus1.23.19small.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 3197187,
+          "timestamp": 1548342881,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30646,
+      "title": "SUE: The T. rex Experience Fact Sheet  ",
+      "timestamp": 1588967943,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1660976,
+          "url": "http:\/\/localhost\/sites\/default\/files\/suet_rexexperiencefactsheet.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 712965,
+          "timestamp": 1588967754,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30651,
+      "title": "SUE: The T. rex Experience Schedule",
+      "timestamp": 1591888366,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1665234,
+          "url": "http:\/\/localhost\/sites\/default\/files\/sue_experience_tour_schedule_6.5.20.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 145859,
+          "timestamp": 1591888315,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30656,
+      "title": "Wealth, Power, and Hierarchy in the Prehistoric Balkans Fact Sheet",
+      "timestamp": 1567700012,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1533146,
+          "url": "http:\/\/localhost\/sites\/default\/files\/balkan_brochure_2019_web.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1358334,
+          "timestamp": 1560436753,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30661,
+      "title": "Wealth, Power, and Hierarchy in the Prehistoric Balkans Tour Schedule",
+      "timestamp": 1591888209,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1665232,
+          "url": "http:\/\/localhost\/sites\/default\/files\/balkans_tour_schedule_6.5.20.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 79289,
+          "timestamp": 1591888174,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30766,
+      "title": "SUE: The T. rex Experience Exhibition Overview",
+      "timestamp": 1569510410,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1611711,
+          "url": "http:\/\/localhost\/sites\/default\/files\/sue_prospectus_1.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 87236768,
+          "timestamp": 1569510378,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 30826,
+      "title": "Field Guides",
+      "timestamp": 1569940929,
+      "body": "\u003Cp\u003EBrowse more than 1,000 plant and animal ID guides for over 40 countries.\u0026nbsp;\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/fieldguides.fieldmuseum.org\/",
+          "title": "Field Guides",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 30831,
+      "title": "Rapid Inventory Reports",
+      "timestamp": 1570044147,
+      "body": "\u003Cp\u003EExplore survey results from rapid inventories in the Andes-Amazon region.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "http:\/\/fm2.fieldmuseum.org\/rbi\/results.asp",
+          "title": "Rapid Inventory Reports",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 30836,
+      "title": "Calumet Heritage Area",
+      "timestamp": 1569946329,
+      "body": "\u003Cp\u003ELearn about the collaborative effort to protect the Calumet region, one of the most diverse places in America.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/www.calumetheritagearea.org",
+          "title": "Calumet Heritage Area",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 30841,
+      "title": "Chicago Community Climate Partnership",
+      "timestamp": 1593116435,
+      "body": "\u003Cp\u003EJoin Chicagoans who are taking action on climate change right here in our city.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/www.chicommunityclimate.org\/",
+          "title": "Chicago Community Climate Partnership",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 30846,
+      "title": "Mighty Acorns",
+      "timestamp": 1570044809,
+      "body": "\u003Cp\u003ESupport environmental education\u0026nbsp;by becoming a Mighty Acorns partner, school, volunteer, or sponsor.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/www.mightyacorns.org\/",
+          "title": "Mighty Acorns",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 30856,
+      "title": "Chicago Wilderness",
+      "timestamp": 1570044859,
+      "body": "\u003Cp\u003EConnect with an alliance of conservation leaders working toward a green vision for the Chicago region.\u003C\/p\u003E\r\n",
+      "links": [
+        {
+          "url": "https:\/\/www.chicagowilderness.org\/",
+          "title": "Chicago Wilderness",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 31061,
+      "title": "Media Creation \u0026 Assignment Agreement",
+      "timestamp": 1576181460,
+      "body": null,
+      "links": [
+        {
+          "url": "https:\/\/docs.google.com\/document\/d\/1BAOWb7k3-k0RNinXcFBbEMypLzxvehn8Y1ninQ2uJTw\/edit",
+          "title": "Media Creation \u0026 Assignment Agreement",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 31062,
+      "title": "Media Agreement FAQ",
+      "timestamp": 1576181502,
+      "body": null,
+      "links": [
+        {
+          "url": "https:\/\/docs.google.com\/document\/d\/1JNWwxPDd6yrfyN8vkUowpl3K3ECE7AEmCFW0NegWWp8\/edit",
+          "title": "Media Agreement FAQ",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 31105,
+      "title": "Aps\u00e1alooke Women and Warriors Exhibition Overview",
+      "timestamp": 1587567834,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1644008,
+          "url": "http:\/\/localhost\/sites\/default\/files\/awwprospectus.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 9254271,
+          "timestamp": 1577724437,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 31157,
+      "title": "Night of Ideas: Alive! Program",
+      "timestamp": 1579902983,
+      "body": "\u003Cp\u003EDownload and browse\u0026nbsp;the schedule of performers, speakers, workshops and more for Night of Ideas: Alive!.\u0026nbsp;\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1647364,
+          "url": "http:\/\/localhost\/sites\/default\/files\/noifinalvisitorprogram_page2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 51759,
+          "timestamp": 1579898338,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 31200,
+      "title": "List of Species Wanted for LinEpig",
+      "timestamp": 1586788824,
+      "body": null,
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1652403,
+          "url": "http:\/\/localhost\/sites\/default\/files\/linepig-looking-for-species.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 497092,
+          "timestamp": 1583166384,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 31237,
+      "title": "At Home Collections | Science Hub at Home",
+      "timestamp": 1592490803,
+      "body": "\u003Cp\u003ECreate your own museum collection at home.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2561,
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658809,
+          "url": "http:\/\/localhost\/sites\/default\/files\/at-home-collections_0.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 471530,
+          "timestamp": 1587498874,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666109,
+          "url": "http:\/\/localhost\/sites\/default\/files\/at_home_collectionsfinal4-19_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2077193,
+          "timestamp": 1592490774,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31238,
+      "title": "In Your Backyard | Science Hub at Home",
+      "timestamp": 1592489752,
+      "body": "\u003Cp\u003ETrack down reptiles and amphibians by exploring your own natural spaces.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658814,
+          "url": "http:\/\/localhost\/sites\/default\/files\/in-your-backyard.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2589476,
+          "timestamp": 1587499567,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666114,
+          "url": "http:\/\/localhost\/sites\/default\/files\/in_your_backyardfinal4.19_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 37458085,
+          "timestamp": 1592489669,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31239,
+      "title": "Jump Like a Frog | Science Hub at Home",
+      "timestamp": 1592491304,
+      "body": "\u003Cp\u003ECan you leap like a frog? Investigate how frogs jump then compete in a jumping contest.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658793,
+          "url": "http:\/\/localhost\/sites\/default\/files\/jump-like-a-frog.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1598002,
+          "timestamp": 1587499428,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666102,
+          "url": "http:\/\/localhost\/sites\/default\/files\/jump_like_a_frogfinal4.19.20_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 12785553,
+          "timestamp": 1592491270,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31240,
+      "title": "Maya Blue and You | Science Hub at Home",
+      "timestamp": 1592491174,
+      "body": "\u003Cp\u003EDiscover how you use the color blue as compared to the Maya.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658813,
+          "url": "http:\/\/localhost\/sites\/default\/files\/maya-blue-and-you.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 143809,
+          "timestamp": 1592238237,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666104,
+          "url": "http:\/\/localhost\/sites\/default\/files\/mayablueandyou_final4.19.20_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 8027032,
+          "timestamp": 1592491147,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31241,
+      "title": "Prolific Pigment | Science Hub at Home",
+      "timestamp": 1592491082,
+      "body": "\u003Cp\u003EHere\u0027s a recipe for your own blueberry \u0022paint.\u0022 Use it to study and color a blue morpho butterfly.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658795,
+          "url": "http:\/\/localhost\/sites\/default\/files\/prolific-pigment.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 824701,
+          "timestamp": 1587485698,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666105,
+          "url": "http:\/\/localhost\/sites\/default\/files\/prolific_pigmentfinal4.19.20_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 844704,
+          "timestamp": 1592491045,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31242,
+      "title": "Specimen Spotlight: Indigo Bunting | Science Hub at Home",
+      "timestamp": 1592490161,
+      "body": "\u003Cp\u003EMeet the Indigo Bunting bird.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658796,
+          "url": "http:\/\/localhost\/sites\/default\/files\/specimen-spotlight_blue-bunting.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2004875,
+          "timestamp": 1587499591,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666111,
+          "url": "http:\/\/localhost\/sites\/default\/files\/blue_buntingfinal4.19.20_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 6053607,
+          "timestamp": 1592490056,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31243,
+      "title": "Spot the Animal | Science Hub at Home",
+      "timestamp": 1592490403,
+      "body": "\u003Cp\u003ECan you find the camouflaged animal? Inspect how reptiles and amphibians hide in their environment.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658798,
+          "url": "http:\/\/localhost\/sites\/default\/files\/spot-the-animal.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 9426000,
+          "timestamp": 1587499567,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666106,
+          "url": "http:\/\/localhost\/sites\/default\/files\/spot_the_animalfinal4.15.20_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 44310584,
+          "timestamp": 1592490361,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31244,
+      "title": "Lizard or Salamander | Science Hub at Home",
+      "timestamp": 1592491237,
+      "body": "\u003Cp\u003ELearn how to tell a lizard from a salamnder then challenge to do the same friends and family with a puzzle.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658817,
+          "url": "http:\/\/localhost\/sites\/default\/files\/lizard-or-salamander.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 8498278,
+          "timestamp": 1587499818,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666103,
+          "url": "http:\/\/localhost\/sites\/default\/files\/lizard_or_salamanderfinal4.15.20_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 81962315,
+          "timestamp": 1592491212,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31245,
+      "title": "Specimen Spotlight: Japanese Giant Salamander | Science Hub at Home",
+      "timestamp": 1592489609,
+      "body": "\u003Cp\u003EMeet the Japanese giant salamander.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658818,
+          "url": "http:\/\/localhost\/sites\/default\/files\/specimen-spotlight_japan-giant-salamander.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 7263621,
+          "timestamp": 1587499954,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666115,
+          "url": "http:\/\/localhost\/sites\/default\/files\/japangiantsalamanderfinal4.19.20_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 59491976,
+          "timestamp": 1592489703,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31247,
+      "title": "Wheel of Function | Science Hub at Home",
+      "timestamp": 1592506847,
+      "body": "\u003Cp\u003ELearn how animals evolved to display the color blue. Then print your own game wheel to play with others!\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658962,
+          "url": "http:\/\/localhost\/sites\/default\/files\/wheel-of-function.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 3053007,
+          "timestamp": 1587582732,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666143,
+          "url": "http:\/\/localhost\/sites\/default\/files\/wheel_of_functionfinal4.21.20_spanish.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2919383,
+          "timestamp": 1592506803,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31248,
+      "title": "What Does Blue Mean to You? | Science Hub at Home",
+      "timestamp": 1592490991,
+      "body": "\u003Cp\u003EDiscuss what the color blue means to you and compare your answers with other museum visitors.\u0026nbsp;\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2556
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1658821,
+          "url": "http:\/\/localhost\/sites\/default\/files\/what-does-blue-mean-to-you.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 40191,
+          "timestamp": 1587501073,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666107,
+          "url": "http:\/\/localhost\/sites\/default\/files\/what_does_blue_mean_to_youfinal4.19.20_copy.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 688165,
+          "timestamp": 1592490962,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31254,
+      "title": "Birding 101 | Science Hub at Home",
+      "timestamp": 1592490289,
+      "body": "\u003Cp\u003EDiscover the birds of Chicago with these birding techniques.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1660832,
+          "url": "http:\/\/localhost\/sites\/default\/files\/birding-101.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 427735,
+          "timestamp": 1588875251,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666110,
+          "url": "http:\/\/localhost\/sites\/default\/files\/birding101final5.6.20.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 2388035,
+          "timestamp": 1592490251,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31255,
+      "title": "Animal Observations | Science Hub at Home",
+      "timestamp": 1592490864,
+      "body": "\u003Cp\u003ELearn how scientists observe and track animal behavior and how you can do the same with your pets at home.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1660834,
+          "url": "http:\/\/localhost\/sites\/default\/files\/animal-obervations.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 302553,
+          "timestamp": 1588875251,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666108,
+          "url": "http:\/\/localhost\/sites\/default\/files\/animal_observation_4.30final.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 3083662,
+          "timestamp": 1592490759,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31256,
+      "title": "Furiously Fast Falcons | Science Hub at Home",
+      "timestamp": 1592489931,
+      "body": "\u003Cp\u003EFigure out how fast you can run and how that compares to some of the fastest and slowest animals on the planet.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1660835,
+          "url": "http:\/\/localhost\/sites\/default\/files\/furiosly-fast-falcons.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 427401,
+          "timestamp": 1588875251,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666112,
+          "url": "http:\/\/localhost\/sites\/default\/files\/ffffinal4.29.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 3491137,
+          "timestamp": 1592489898,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31257,
+      "title": "Specimen Spotlight: Peregrine Falcons | Science Hub at Home",
+      "timestamp": 1592490531,
+      "body": "\u003Cp\u003EMeet Chicago\u0027s peregrine falcons and learn how our collections helps the population thrive.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196,
+            201
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1660833,
+          "url": "http:\/\/localhost\/sites\/default\/files\/specimen-spotlight-peregrine-falcon.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 289287,
+          "timestamp": 1588875251,
+          "title": null,
+          "language": "English"
+        },
+        {
+          "fid": 1666113,
+          "url": "http:\/\/localhost\/sites\/default\/files\/finalspecimen_spotlightperegrine5.6.20.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 5703782,
+          "timestamp": 1592490493,
+          "title": null,
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "nid": 31262,
+      "title": "Monarch Guide | Home FIELD Advantage ",
+      "timestamp": 1589556563,
+      "body": "\u003Cp\u003EWrite and draw to observe monarch butterflies.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2649
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            196
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1661807,
+          "url": "http:\/\/localhost\/sites\/default\/files\/home_field_monarch_observation_guide_v1.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 1554490,
+          "timestamp": 1589491342,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 31272,
+      "title": "Herbarium Sheets | PlayLab at Home",
+      "timestamp": 1590783652,
+      "body": "\u003Cp\u003ELearn about scientists who study plants and create your own herbarium sheet.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1663653,
+          "url": "http:\/\/localhost\/sites\/default\/files\/herbarium2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 125392,
+          "timestamp": 1590693498,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 31273,
+      "title": "What do you Hear? | PlayLab at Home",
+      "timestamp": 1590783646,
+      "body": "\u003Cp\u003EFind a listening spot to hear the world around you and make a sound map.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1663655,
+          "url": "http:\/\/localhost\/sites\/default\/files\/what_do_you_hear2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 100838,
+          "timestamp": 1590693498,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 31274,
+      "title": "Bird Calls and Songs | PlayLab at Home",
+      "timestamp": 1590783635,
+      "body": "\u003Cp\u003EListen to different songs or calls made by local Illinois birds.\u0026nbsp;\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 86,
+          "terms": [
+            2648
+          ]
+        },
+        {
+          "vid": 16,
+          "terms": [
+            191
+          ]
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 96,
+          "terms": [
+            2551
+          ]
+        },
+        {
+          "vid": 97,
+          "terms": [
+            2642
+          ]
+        }
+      ],
+      "files": [
+        {
+          "fid": 1663654,
+          "url": "http:\/\/localhost\/sites\/default\/files\/bird_songs2.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 184529,
+          "timestamp": 1590693498,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    },
+    {
+      "nid": 31280,
+      "title": "Aps\u00e1alooke Women and Warriors Exhibition Walkthrough",
+      "timestamp": 1592228885,
+      "body": null,
+      "links": [
+        {
+          "url": "https:\/\/www.fieldmuseum.org\/sites\/default\/files\/aww_exhibition_walkthrough_.pdf",
+          "title": "Download PDF",
+          "attributes": {
+            "target": 0
+          }
+        },
+        {
+          "url": "https:\/\/vimeo.com\/428246553",
+          "title": "See Video",
+          "attributes": {
+            "target": 0
+          }
+        }
+      ],
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ]
+    },
+    {
+      "nid": 31285,
+      "title": "Field Explorers Virtual Camp FAQ",
+      "timestamp": 1592570882,
+      "body": "\u003Cp\u003EFind information about camp activities, schedules, registration, and more.\u003C\/p\u003E\r\n",
+      "links": null,
+      "taxonomies": [
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 91,
+          "terms": [
+            2576
+          ]
+        },
+        {
+          "vid": 0,
+          "terms": null
+        },
+        {
+          "vid": 0,
+          "terms": null
+        }
+      ],
+      "files": [
+        {
+          "fid": 1666194,
+          "url": "http:\/\/localhost\/sites\/default\/files\/virtualcamp2020parentfaq.pdf",
+          "filemime": "application\/pdf",
+          "filesize": 75450,
+          "timestamp": 1592570805,
+          "title": null,
+          "language": "English"
+        }
+      ]
+    }
+  ]
+}

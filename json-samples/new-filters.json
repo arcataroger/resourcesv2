@@ -1,0 +1,1212 @@
+{
+  "taxonomy_legend": [
+    {
+      "vid": 56,
+      "name": "Primary Topic",
+      "machine_name": "primary_topic",
+      "weight": -10,
+      "terms": [
+        {
+          "tid": 2306,
+          "name": "Animals",
+          "weight": 0
+        },
+        {
+          "tid": 2311,
+          "name": "Behind-the-Scenes",
+          "weight": 0
+        },
+        {
+          "tid": 2316,
+          "name": "Cultures",
+          "weight": 0
+        },
+        {
+          "tid": 2321,
+          "name": "Dinosaurs",
+          "weight": 0
+        },
+        {
+          "tid": 2326,
+          "name": "Environment",
+          "weight": 0
+        },
+        {
+          "tid": 2331,
+          "name": "Fossils",
+          "weight": 0
+        },
+        {
+          "tid": 2336,
+          "name": "Gems & Minerals",
+          "weight": 0
+        },
+        {
+          "tid": 2341,
+          "name": "Meteorites",
+          "weight": 0
+        },
+        {
+          "tid": 2346,
+          "name": "Mummies",
+          "weight": 0
+        },
+        {
+          "tid": 2351,
+          "name": "Plants & Fungi",
+          "weight": 0
+        },
+        {
+          "tid": 2356,
+          "name": "Science News",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "vid": 61,
+      "name": "Series",
+      "machine_name": "series",
+      "weight": -9,
+      "terms": [
+        {
+          "tid": 2376,
+          "name": "The Brain Scoop",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "vid": 21,
+      "name": "Topic",
+      "machine_name": "topic",
+      "weight": -8,
+      "terms": {
+        "0": {
+          "tid": 1241,
+          "name": "Amphibians & Reptiles",
+          "weight": 0
+        },
+        "1": {
+          "tid": 1491,
+          "name": "Ancient Americas",
+          "weight": 0
+        },
+        "2": {
+          "tid": 761,
+          "name": "Animals",
+          "weight": 0
+        },
+        "3": {
+          "tid": 1281,
+          "name": "Archaeology",
+          "weight": 0
+        },
+        "4": {
+          "tid": 2446,
+          "name": "Behind-the-Scenes",
+          "weight": 0
+        },
+        "5": {
+          "tid": 1426,
+          "name": "Birds",
+          "weight": 0
+        },
+        "6": {
+          "tid": 2406,
+          "name": "Bryophytes",
+          "weight": 0
+        },
+        "7": {
+          "tid": 766,
+          "name": "Cephalopods",
+          "weight": 0
+        },
+        "8": {
+          "tid": 786,
+          "name": "Climate Change",
+          "weight": 0
+        },
+        "9": {
+          "tid": 791,
+          "name": "Collections",
+          "weight": 0
+        },
+        "10": {
+          "tid": 2411,
+          "name": "Community Building",
+          "weight": 0
+        },
+        "11": {
+          "tid": 2441,
+          "name": "Cultures",
+          "weight": 0
+        },
+        "12": {
+          "tid": 1341,
+          "name": "Dinosaurs",
+          "weight": 0
+        },
+        "13": {
+          "tid": 1506,
+          "name": "DNA",
+          "weight": 0
+        },
+        "14": {
+          "tid": 1266,
+          "name": "Early Humans",
+          "weight": 0
+        },
+        "15": {
+          "tid": 806,
+          "name": "Education",
+          "weight": 0
+        },
+        "16": {
+          "tid": 816,
+          "name": "Environment & Conservation",
+          "weight": 0
+        },
+        "17": {
+          "tid": 821,
+          "name": "Evolution",
+          "weight": 0
+        },
+        "18": {
+          "tid": 2451,
+          "name": "Exhibition Creation",
+          "weight": 0
+        },
+        "19": {
+          "tid": 831,
+          "name": "Field Work",
+          "weight": 0
+        },
+        "20": {
+          "tid": 1246,
+          "name": "Fish",
+          "weight": 0
+        },
+        "21": {
+          "tid": 1286,
+          "name": "Flowering Plants",
+          "weight": 0
+        },
+        "22": {
+          "tid": 836,
+          "name": "Fossils",
+          "weight": 0
+        },
+        "23": {
+          "tid": 2456,
+          "name": "From the Archives",
+          "weight": 0
+        },
+        "24": {
+          "tid": 2436,
+          "name": "Gems & Minerals",
+          "weight": 0
+        },
+        "25": {
+          "tid": 1361,
+          "name": "Imaging & Scanning",
+          "weight": 0
+        },
+        "26": {
+          "tid": 1261,
+          "name": "Insects",
+          "weight": 0
+        },
+        "27": {
+          "tid": 1321,
+          "name": "Lichens",
+          "weight": 0
+        },
+        "28": {
+          "tid": 801,
+          "name": "Living Cultures",
+          "weight": 0
+        },
+        "29": {
+          "tid": 1226,
+          "name": "Mammals",
+          "weight": 0
+        },
+        "30": {
+          "tid": 1311,
+          "name": "Membership",
+          "weight": 0
+        },
+        "31": {
+          "tid": 2431,
+          "name": "Meteorites",
+          "weight": 0
+        },
+        "32": {
+          "tid": 1271,
+          "name": "Mummies",
+          "weight": 0
+        },
+        "33": {
+          "tid": 2421,
+          "name": "Museum History",
+          "weight": 0
+        },
+        "34": {
+          "tid": 1351,
+          "name": "Object Conservation",
+          "weight": 0
+        },
+        "35": {
+          "tid": 1496,
+          "name": "Old World Civilizations",
+          "weight": 0
+        },
+        "36": {
+          "tid": 886,
+          "name": "Plants & Fungi",
+          "weight": 0
+        },
+        "37": {
+          "tid": 2426,
+          "name": "Research",
+          "weight": 0
+        },
+        "38": {
+          "tid": 1421,
+          "name": "Science News",
+          "weight": 0
+        },
+        "39": {
+          "tid": 1251,
+          "name": "Sharks",
+          "weight": 0
+        },
+        "40": {
+          "tid": 911,
+          "name": "Sustainability",
+          "weight": 0
+        },
+        "41": {
+          "tid": 946,
+          "name": "Women in Science",
+          "weight": 0
+        },
+        "42": {
+          "tid": 811,
+          "name": "Working at the Field",
+          "weight": 0
+        }
+      }
+    },
+    {
+      "vid": 1,
+      "name": "Audience",
+      "machine_name": "audience",
+      "weight": -7,
+      "terms": [
+        {
+          "tid": 21,
+          "name": "Families",
+          "weight": 0
+        },
+        {
+          "tid": 11,
+          "name": "Adults",
+          "weight": 1
+        },
+        {
+          "tid": 26,
+          "name": "Teens & Pre-teens",
+          "weight": 2
+        },
+        {
+          "tid": 2476,
+          "name": "Members",
+          "weight": 3
+        },
+        {
+          "tid": 2401,
+          "name": "Accessibility",
+          "weight": 4
+        },
+        {
+          "tid": 16,
+          "name": "Educators",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "vid": 16,
+      "name": "Grade Level (Resources)",
+      "machine_name": "grade_level",
+      "weight": -5,
+      "terms": [
+        {
+          "tid": 191,
+          "name": "Grades PK–2",
+          "weight": 0
+        },
+        {
+          "tid": 196,
+          "name": "Grades 3–5",
+          "weight": 1
+        },
+        {
+          "tid": 201,
+          "name": "Grades 6–8",
+          "weight": 2
+        },
+        {
+          "tid": 206,
+          "name": "Grades 9–12",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "vid": 66,
+      "name": "Audience Event Tags",
+      "machine_name": "audience_event_tags",
+      "weight": 0,
+      "terms": [
+        {
+          "tid": 2381,
+          "name": "Free",
+          "weight": 0
+        },
+        {
+          "tid": 2386,
+          "name": "Free with Admission",
+          "weight": 0
+        },
+        {
+          "tid": 2396,
+          "name": "Registration Required",
+          "weight": 0
+        },
+        {
+          "tid": 2391,
+          "name": "Tickets Required",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "vid": 76,
+      "name": "Capacity",
+      "machine_name": "capacity",
+      "weight": 0,
+      "terms": [
+        {
+          "tid": 2501,
+          "name": "Under 100",
+          "weight": 0
+        },
+        {
+          "tid": 2506,
+          "name": "100–300",
+          "weight": 1
+        },
+        {
+          "tid": 2511,
+          "name": "300–500",
+          "weight": 2
+        },
+        {
+          "tid": 2516,
+          "name": "500–2,500",
+          "weight": 3
+        },
+        {
+          "tid": 2521,
+          "name": "Over 2,500",
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "vid": 81,
+      "name": "Event Type",
+      "machine_name": "event_type",
+      "weight": 0,
+      "terms": [
+        {
+          "tid": 2491,
+          "name": "Corporate Events & Parties",
+          "weight": 0
+        },
+        {
+          "tid": 2486,
+          "name": "Corporate Meetings & Conferences",
+          "weight": 0
+        },
+        {
+          "tid": 2496,
+          "name": "Galas & Fundraisers",
+          "weight": 0
+        },
+        {
+          "tid": 2481,
+          "name": "Weddings",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "vid": 26,
+      "name": "Gallery collections",
+      "machine_name": "gallery_collections",
+      "weight": 0,
+      "terms": [
+        {
+          "tid": 1,
+          "name": "Galleries",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "vid": 91,
+      "name": "Language",
+      "machine_name": "language",
+      "weight": 0,
+      "terms": [
+        {
+          "tid": 2576,
+          "name": "English",
+          "weight": 0
+        },
+        {
+          "tid": 2581,
+          "name": "Spanish",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "vid": 97,
+      "name": "Leader (Resources)",
+      "machine_name": "leader",
+      "weight": 0,
+      "terms": [
+        {
+          "tid": 2642,
+          "name": "Parent or Caregiver",
+          "weight": 0
+        },
+        {
+          "tid": 2643,
+          "name": "Teacher or Educator",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "vid": 98,
+      "name": "Location (Resources)",
+      "machine_name": "location",
+      "weight": 0,
+      "terms": [
+        {
+          "tid": 2644,
+          "name": "At Home",
+          "weight": 0
+        },
+        {
+          "tid": 2645,
+          "name": "At the Museum",
+          "weight": 0
+        },
+        {
+          "tid": 2646,
+          "name": "In School",
+          "weight": 0
+        },
+        {
+          "tid": 2647,
+          "name": "Outdoors",
+          "weight": 0
+        }
+      ]
+    },
+    {
+      "vid": 36,
+      "name": "Location/Region",
+      "machine_name": "location_region",
+      "weight": 0,
+      "terms": {
+        "0": {
+          "tid": 211,
+          "name": "Polar",
+          "weight": 29
+        },
+        "1": {
+          "tid": 381,
+          "name": "Antarctica",
+          "weight": 0
+        },
+        "2": {
+          "tid": 386,
+          "name": "Arctic",
+          "weight": 1
+        },
+        "3": {
+          "tid": 216,
+          "name": "South America",
+          "weight": 30
+        },
+        "4": {
+          "tid": 391,
+          "name": "Bolivia",
+          "weight": 0
+        },
+        "5": {
+          "tid": 396,
+          "name": "Brazil",
+          "weight": 1
+        },
+        "6": {
+          "tid": 401,
+          "name": "Colombia",
+          "weight": 2
+        },
+        "7": {
+          "tid": 406,
+          "name": "Ecuador",
+          "weight": 3
+        },
+        "8": {
+          "tid": 411,
+          "name": "Peru",
+          "weight": 4
+        },
+        "9": {
+          "tid": 221,
+          "name": "Worldwide",
+          "weight": 31
+        },
+        "10": {
+          "tid": 226,
+          "name": "Oceania",
+          "weight": 32
+        },
+        "11": {
+          "tid": 231,
+          "name": "Mesoamerica",
+          "weight": 33
+        },
+        "12": {
+          "tid": 321,
+          "name": "Belize",
+          "weight": 0
+        },
+        "13": {
+          "tid": 326,
+          "name": "Guatemala",
+          "weight": 1
+        },
+        "14": {
+          "tid": 331,
+          "name": "Mexico",
+          "weight": 2
+        },
+        "15": {
+          "tid": 236,
+          "name": "Indo-Pacific Islands",
+          "weight": 34
+        },
+        "16": {
+          "tid": 241,
+          "name": "Gulf of Mexico",
+          "weight": 35
+        },
+        "17": {
+          "tid": 246,
+          "name": "Central America",
+          "weight": 36
+        },
+        "18": {
+          "tid": 251,
+          "name": "Europe",
+          "weight": 37
+        },
+        "19": {
+          "tid": 256,
+          "name": "Gondwana",
+          "weight": 38
+        },
+        "20": {
+          "tid": 261,
+          "name": "Middle East",
+          "weight": 39
+        },
+        "21": {
+          "tid": 266,
+          "name": "Neotropics",
+          "weight": 40
+        },
+        "22": {
+          "tid": 271,
+          "name": "Africa",
+          "weight": 41
+        },
+        "23": {
+          "tid": 301,
+          "name": "Madagascar",
+          "weight": 0
+        },
+        "24": {
+          "tid": 306,
+          "name": "Egypt",
+          "weight": 1
+        },
+        "25": {
+          "tid": 276,
+          "name": "Caribbean",
+          "weight": 42
+        },
+        "26": {
+          "tid": 281,
+          "name": "Asia",
+          "weight": 43
+        },
+        "27": {
+          "tid": 311,
+          "name": "China",
+          "weight": 0
+        },
+        "28": {
+          "tid": 316,
+          "name": "Philippines",
+          "weight": 1
+        },
+        "29": {
+          "tid": 286,
+          "name": "North America",
+          "weight": 44
+        },
+        "30": {
+          "tid": 336,
+          "name": "USA",
+          "weight": 0
+        },
+        "31": {
+          "tid": 341,
+          "name": "Illinois",
+          "weight": 0
+        },
+        "32": {
+          "tid": 371,
+          "name": "Chicago",
+          "weight": 0
+        },
+        "33": {
+          "tid": 376,
+          "name": "Calumet",
+          "weight": 1
+        },
+        "34": {
+          "tid": 346,
+          "name": "Indiana",
+          "weight": 1
+        },
+        "35": {
+          "tid": 351,
+          "name": "Michigan",
+          "weight": 2
+        },
+        "36": {
+          "tid": 356,
+          "name": "New Mexico",
+          "weight": 3
+        },
+        "37": {
+          "tid": 361,
+          "name": "Wisconsin",
+          "weight": 4
+        },
+        "38": {
+          "tid": 366,
+          "name": "Wyoming",
+          "weight": 5
+        },
+        "39": {
+          "tid": 291,
+          "name": "Australia",
+          "weight": 45
+        },
+        "40": {
+          "tid": 296,
+          "name": "Oceans",
+          "weight": 46
+        },
+        "41": {
+          "tid": 416,
+          "name": "Southern Ocean",
+          "weight": 0
+        },
+        "42": {
+          "tid": 421,
+          "name": "Mediterranean",
+          "weight": 1
+        },
+        "43": {
+          "tid": 426,
+          "name": "Indian Ocean",
+          "weight": 2
+        },
+        "44": {
+          "tid": 431,
+          "name": "Indo-Pacific",
+          "weight": 3
+        },
+        "45": {
+          "tid": 436,
+          "name": "Pacific Ocean",
+          "weight": 4
+        },
+        "46": {
+          "tid": 441,
+          "name": "Atlantic Ocean",
+          "weight": 5
+        }
+      }
+    },
+    {
+      "vid": 41,
+      "name": "Research Area",
+      "machine_name": "research_area",
+      "weight": 0,
+      "terms": {
+        "0": {
+          "tid": 446,
+          "name": "Archaeology",
+          "weight": 0
+        },
+        "1": {
+          "tid": 451,
+          "name": "Behavior",
+          "weight": 0
+        },
+        "2": {
+          "tid": 456,
+          "name": "Biogeography",
+          "weight": 0
+        },
+        "3": {
+          "tid": 461,
+          "name": "Bioinformatics",
+          "weight": 0
+        },
+        "4": {
+          "tid": 466,
+          "name": "Carbon Market",
+          "weight": 0
+        },
+        "5": {
+          "tid": 471,
+          "name": "Collection Management",
+          "weight": 0
+        },
+        "6": {
+          "tid": 581,
+          "name": "Digitization",
+          "weight": 0
+        },
+        "7": {
+          "tid": 586,
+          "name": "Preservation",
+          "weight": 0
+        },
+        "8": {
+          "tid": 591,
+          "name": "Specimen Preparation",
+          "weight": 0
+        },
+        "9": {
+          "tid": 476,
+          "name": "Cosmochemistry",
+          "weight": 0
+        },
+        "10": {
+          "tid": 481,
+          "name": "Cultural Understanding",
+          "weight": 0
+        },
+        "11": {
+          "tid": 486,
+          "name": "Ecology",
+          "weight": 0
+        },
+        "12": {
+          "tid": 491,
+          "name": "Environmental Conservation",
+          "weight": 0
+        },
+        "13": {
+          "tid": 496,
+          "name": "Ethnography",
+          "weight": 0
+        },
+        "14": {
+          "tid": 501,
+          "name": "Evolutionary Biology",
+          "weight": 0
+        },
+        "15": {
+          "tid": 506,
+          "name": "Extinction",
+          "weight": 0
+        },
+        "16": {
+          "tid": 511,
+          "name": "Floristics",
+          "weight": 0
+        },
+        "17": {
+          "tid": 516,
+          "name": "Function/Biomechanics",
+          "weight": 0
+        },
+        "18": {
+          "tid": 521,
+          "name": "Genomics",
+          "weight": 0
+        },
+        "19": {
+          "tid": 526,
+          "name": "Geochemistry",
+          "weight": 0
+        },
+        "20": {
+          "tid": 531,
+          "name": "Identification Tools",
+          "weight": 0
+        },
+        "21": {
+          "tid": 596,
+          "name": "Checklists",
+          "weight": 0
+        },
+        "22": {
+          "tid": 601,
+          "name": "Guides",
+          "weight": 0
+        },
+        "23": {
+          "tid": 606,
+          "name": "Keys",
+          "weight": 0
+        },
+        "24": {
+          "tid": 536,
+          "name": "Invasive Species",
+          "weight": 0
+        },
+        "25": {
+          "tid": 541,
+          "name": "Mapping",
+          "weight": 0
+        },
+        "26": {
+          "tid": 546,
+          "name": "Mineralogy",
+          "weight": 0
+        },
+        "27": {
+          "tid": 551,
+          "name": "Paleobotany",
+          "weight": 0
+        },
+        "28": {
+          "tid": 556,
+          "name": "Paleontology",
+          "weight": 0
+        },
+        "29": {
+          "tid": 561,
+          "name": "Petrology",
+          "weight": 0
+        },
+        "30": {
+          "tid": 566,
+          "name": "Rapid Inventories",
+          "weight": 0
+        },
+        "31": {
+          "tid": 571,
+          "name": "Stratigraphy",
+          "weight": 0
+        },
+        "32": {
+          "tid": 576,
+          "name": "Systematics/Phylogeny",
+          "weight": 0
+        }
+      }
+    },
+    {
+      "vid": 86,
+      "name": "Resource Type (Resources)",
+      "machine_name": "educator_resource_type",
+      "weight": 0,
+      "terms": [
+        {
+          "tid": 2648,
+          "name": "Activity",
+          "weight": 0
+        },
+        {
+          "tid": 2649,
+          "name": "Family-Friendly Lesson",
+          "weight": 1
+        },
+        {
+          "tid": 2606,
+          "name": "Game",
+          "weight": 2
+        },
+        {
+          "tid": 2611,
+          "name": "Interactive or App",
+          "weight": 3
+        },
+        {
+          "tid": 2616,
+          "name": "Lesson Plan",
+          "weight": 4
+        },
+        {
+          "tid": 2631,
+          "name": "Video",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "vid": 46,
+      "name": "Science Focus",
+      "machine_name": "science_focus",
+      "weight": 0,
+      "terms": {
+        "0": {
+          "tid": 951,
+          "name": "Amphibians",
+          "weight": 0
+        },
+        "1": {
+          "tid": 956,
+          "name": "Angiosperms",
+          "weight": 0
+        },
+        "2": {
+          "tid": 961,
+          "name": "Ants",
+          "weight": 0
+        },
+        "3": {
+          "tid": 966,
+          "name": "Arachnid",
+          "weight": 0
+        },
+        "4": {
+          "tid": 971,
+          "name": "Archaeology",
+          "weight": 0
+        },
+        "5": {
+          "tid": 976,
+          "name": "Arthropods",
+          "weight": 0
+        },
+        "6": {
+          "tid": 981,
+          "name": "Bacteria",
+          "weight": 0
+        },
+        "7": {
+          "tid": 986,
+          "name": "Beetles",
+          "weight": 0
+        },
+        "8": {
+          "tid": 991,
+          "name": "Birds",
+          "weight": 0
+        },
+        "9": {
+          "tid": 996,
+          "name": "Bryophytes",
+          "weight": 0
+        },
+        "10": {
+          "tid": 1001,
+          "name": "Bryozoans",
+          "weight": 0
+        },
+        "11": {
+          "tid": 1006,
+          "name": "Butterflies and Moths",
+          "weight": 0
+        },
+        "12": {
+          "tid": 1011,
+          "name": "Chordates",
+          "weight": 0
+        },
+        "13": {
+          "tid": 1016,
+          "name": "Dinosaurs",
+          "weight": 0
+        },
+        "14": {
+          "tid": 1021,
+          "name": "DNA",
+          "weight": 0
+        },
+        "15": {
+          "tid": 1026,
+          "name": "Fire",
+          "weight": 0
+        },
+        "16": {
+          "tid": 1031,
+          "name": "Fishes",
+          "weight": 0
+        },
+        "17": {
+          "tid": 1036,
+          "name": "Fossil Fuels",
+          "weight": 0
+        },
+        "18": {
+          "tid": 1041,
+          "name": "Fungi",
+          "weight": 0
+        },
+        "19": {
+          "tid": 1046,
+          "name": "Gymnosperms",
+          "weight": 0
+        },
+        "20": {
+          "tid": 1051,
+          "name": "Humans",
+          "weight": 0
+        },
+        "21": {
+          "tid": 1056,
+          "name": "Insects",
+          "weight": 0
+        },
+        "22": {
+          "tid": 1061,
+          "name": "Invertebrates",
+          "weight": 0
+        },
+        "23": {
+          "tid": 1066,
+          "name": "Lichens",
+          "weight": 0
+        },
+        "24": {
+          "tid": 1071,
+          "name": "Mammals",
+          "weight": 0
+        },
+        "25": {
+          "tid": 1076,
+          "name": "Mollusks",
+          "weight": 0
+        },
+        "26": {
+          "tid": 1081,
+          "name": "Myriapods",
+          "weight": 0
+        },
+        "27": {
+          "tid": 1086,
+          "name": "Natural Hazards",
+          "weight": 0
+        },
+        "28": {
+          "tid": 1091,
+          "name": "Protozoa",
+          "weight": 0
+        },
+        "29": {
+          "tid": 1096,
+          "name": "Pteridophytes",
+          "weight": 0
+        },
+        "30": {
+          "tid": 1101,
+          "name": "Reptiles",
+          "weight": 0
+        },
+        "31": {
+          "tid": 1106,
+          "name": "Solar System",
+          "weight": 0
+        },
+        "32": {
+          "tid": 1111,
+          "name": "Synapsids",
+          "weight": 0
+        },
+        "33": {
+          "tid": 1116,
+          "name": "Tetrapods",
+          "weight": 0
+        },
+        "34": {
+          "tid": 1121,
+          "name": "Vertebrates",
+          "weight": 0
+        }
+      }
+    },
+    {
+      "vid": 71,
+      "name": "Stratigraphy",
+      "machine_name": "stratigraphy",
+      "weight": 0,
+      "terms": null
+    },
+    {
+      "vid": 96,
+      "name": "Topic (Resources)",
+      "machine_name": "subject_area",
+      "weight": 0,
+      "terms": [
+        {
+          "tid": 2650,
+          "name": "Design and Engineering",
+          "weight": 0
+        },
+        {
+          "tid": 2651,
+          "name": "Dinosaurs and Evolution",
+          "weight": 1
+        },
+        {
+          "tid": 2561,
+          "name": "Earth Science",
+          "weight": 2
+        },
+        {
+          "tid": 2551,
+          "name": "Plants and Animals",
+          "weight": 3
+        },
+        {
+          "tid": 2556,
+          "name": "World Cultures",
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

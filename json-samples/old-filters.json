@@ -1,0 +1,161 @@
+{
+  "filters": {
+    "leader": {
+      "label": "Leader",
+      "paramName": "leader",
+      "type": "multiselect",
+      "options": {
+        "2642": {
+          "label": "Parent or Caregiver",
+          "value": false,
+          "order": 0
+        },
+        "2643": {
+          "label": "Teacher or Educator",
+          "value": false,
+          "order": 1
+        }
+      }
+    },
+    "subjectArea": {
+      "label": "Topic Area",
+      "paramName": "subjectArea",
+      "type": "multiselect",
+      "options": {
+        "2551": {
+          "label": "Plants and Animals",
+          "value": false,
+          "order": 3
+        },
+        "2556": {
+          "label": "World Cultures",
+          "value": false,
+          "order": 4
+        },
+        "2561": {
+          "label": "Earth Science",
+          "value": false,
+          "order": 2
+        },
+        "2650": {
+          "label": "Design and Engineering",
+          "value": false,
+          "order": 0
+        },
+        "2651": {
+          "label": "Dinosaurs and Evolution",
+          "value": false,
+          "order": 1
+        }
+      }
+    },
+    "gradeLevel": {
+      "label": "Grade Level",
+      "paramName": "gradeLevel",
+      "type": "multiselect",
+      "options": {
+        "191": {
+          "label": "Grades PK–2",
+          "value": false,
+          "order": 0
+        },
+        "196": {
+          "label": "Grades 3–5",
+          "value": false,
+          "order": 1
+        },
+        "201": {
+          "label": "Grades 6–8",
+          "value": false,
+          "order": 2
+        },
+        "206": {
+          "label": "Grades 9–12",
+          "value": false,
+          "order": 3
+        }
+      }
+    },
+    "resourceType": {
+      "label": "Resource Type",
+      "paramName": "resourceType",
+      "type": "multiselect",
+      "options": {
+        "2606": {
+          "label": "Game",
+          "value": false,
+          "order": 2
+        },
+        "2611": {
+          "label": "Interactive or App",
+          "value": false,
+          "order": 3
+        },
+        "2616": {
+          "label": "Lesson Plan",
+          "value": false,
+          "order": 4
+        },
+        "2631": {
+          "label": "Video",
+          "value": false,
+          "order": 5
+        },
+        "2648": {
+          "label": "Activity",
+          "value": false,
+          "order": 0
+        },
+        "2649": {
+          "label": "Family-Friendly Lesson",
+          "value": false,
+          "order": 1
+        }
+      }
+    },
+    "location": {
+      "label": "Location",
+      "paramName": "location",
+      "type": "multiselect",
+      "options": {
+        "2644": {
+          "label": "At Home",
+          "value": false,
+          "order": 0
+        },
+        "2645": {
+          "label": "At the Museum",
+          "value": false,
+          "order": 1
+        },
+        "2646": {
+          "label": "In School",
+          "value": false,
+          "order": 2
+        },
+        "2647": {
+          "label": "Outdoors",
+          "value": false,
+          "order": 3
+        }
+      }
+    },
+    "language": {
+      "label": "Language",
+      "paramName": "language",
+      "type": "multiselect",
+      "options": {
+        "2576": {
+          "label": "English",
+          "value": false,
+          "order": 0
+        },
+        "2581": {
+          "label": "Spanish",
+          "value": false,
+          "order": 1
+        }
+      }
+    }
+  }
+}

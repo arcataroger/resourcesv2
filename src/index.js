@@ -1,3 +1,5 @@
+import "./index.css";
+
 import React, {
     useState,
     useEffect
@@ -7,7 +9,7 @@ import JavascriptTimeAgo from 'javascript-time-ago';
 import en from 'javascript-time-ago/locale/en';
 import ReactTimeAgo from 'react-time-ago';
 import JSONPretty from 'react-json-pretty';
-import "./index.css";
+import fileSize from "filesize";
 
 JavascriptTimeAgo.addLocale(en);
 
@@ -24,6 +26,7 @@ function Resources() {
 
         return (
             <div>
+                <h1>Resources</h1>
                 {
                     data.resources.map((resource) =>
                         <div key={resource.nid}>
@@ -35,17 +38,18 @@ function Resources() {
                                     {resource.files && resource.files.map((file) =>
                                         <ul>
                                             <li key={file.key}>
-                                                <a href={file.url}>{file.language}</a> ({file.filesize} bytes)
+                                                <a href={file.url}>{file.language}</a> {file.filemime} {fileSize(file.filesize, {base: 10})}
                                             </li>
                                         </ul>
                                     )}
                                 </li>
                                 <li>Taxonomies:
-                                    {resource.taxonomies && resource.taxonomies.map((taxon) =>
-                                      <ul>
-                                        <li>{taxon.tid}</li>
-                                      </ul>
-                                    )}
+                                    <ul>
+                                        {resource.taxonomies && resource.taxonomies.forEach((taxon) =>
+                                            taxon.vid &&
+                                            <li><JSONPretty data={lookupTaxonomies(taxon, data.taxonomy_legend)}/></li>
+                                        )}
+                                    </ul>
                                 </li>
                                 <li><JSONPretty data={resource}/></li>
                             </ul>
@@ -53,8 +57,14 @@ function Resources() {
                     )}
             </div>
         );
+    } else {
+        return null;
     }
-    return null;
+}
+
+function lookupTaxonomies(taxon, legend) {
+    const lookup = legend.find(({vid}) => vid === taxon.vid);
+    return lookup || null;
 }
 
 function App() {

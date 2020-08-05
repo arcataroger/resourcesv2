@@ -16,7 +16,7 @@ JavascriptTimeAgo.addLocale(en);
 function Resources() {
     const [data, setData] = useState(null);
     useEffect(() => {
-        fetch(`http://localhost/apiv2/resources`)
+        fetch(`https://reactor.fieldmuseum.dev/apiv2/resources`)
             .then(res => res.json())
             .then(setData)
             .catch(console.error);
@@ -35,23 +35,26 @@ function Resources() {
                                 <li>NID: {resource.nid}</li>
                                 <li>Last modified: <ReactTimeAgo date={resource.timestamp * 1000}/></li>
                                 <li>Files:
-                                    {resource.files && resource.files.map((file) =>
-                                        <ul>
-                                            <li key={file.key}>
+                                    <ul>
+                                        {resource.files && resource.files.map((file) =>
+                                            <li key={file.fid}>
                                                 <a href={file.url}>{file.language}</a> {file.filemime} {fileSize(file.filesize, {base: 10})}
                                             </li>
-                                        </ul>
-                                    )}
-                                </li>
-                                <li>Taxonomies:
-                                    <ul>
-                                        {resource.taxonomies && resource.taxonomies.forEach((taxon) =>
-                                            taxon.vid &&
-                                            <li><JSONPretty data={lookupTaxonomies(taxon, data.taxonomy_legend)}/></li>
                                         )}
                                     </ul>
                                 </li>
-                                <li><JSONPretty data={resource}/></li>
+                                <li>Taxonomies:
+                                    <ul>
+                                        {resource.taxonomies && resource.taxonomies.map((taxon) =>
+                                            taxon.vid >=1 &&
+                                            <li key={taxon.vid}>
+                                                {taxon.name}
+                                                <JSONPretty data={taxon} />
+                                            </li>
+                                        )}
+                                    </ul>
+                                </li>
+                                {/*<li><JSONPretty key={resource.nid} data={resource}/></li>*/}
                             </ul>
                         </div>
                     )}

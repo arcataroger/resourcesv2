@@ -43,14 +43,17 @@ function Resources() {
                                         )}
                                     </ul>
                                 </li>
+
                                 <li>Taxonomies:
                                     <ul>
-                                        {resource.taxonomies && resource.taxonomies.map((taxon) =>
-                                            taxon.vid >=1 &&
-                                            <li key={taxon.vid}>
-                                                {taxon.name}
-                                                <JSONPretty data={taxon} />
-                                            </li>
+                                        {resource.taxonomies && resource.taxonomies.map((taxon) => {
+                                            taxon.vid >= 1 ?
+                                                <li key={taxon.vid}>
+                                                    {taxon.name}
+                                                    <JSONPretty data={taxon}/>
+                                                </li> :  null;
+                                        })
+                                        }
                                         )}
                                     </ul>
                                 </li>

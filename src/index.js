@@ -24,6 +24,8 @@ function Resources() {
 
     if (data) {
 
+        const legend = data.taxonomy_legend;
+
         return (
             <div>
                 <h1>Resources</h1>
@@ -45,17 +47,26 @@ function Resources() {
                                 </li>
 
                                 <li>Taxonomies:
-                                    <ul>
-                                        {resource.taxonomies && resource.taxonomies.map((taxon) => {
-                                            taxon.vid >= 1 ?
-                                                <li key={taxon.vid}>
-                                                    {taxon.name}
-                                                    <JSONPretty data={taxon}/>
-                                                </li> :  null;
-                                        })
-                                        }
-                                        )}
-                                    </ul>
+
+                                    {resource.taxonomies && resource.taxonomies.map((taxon) => {
+                                        return (
+                                            taxon.vid > 0 &&
+                                            <ul key={taxon.vid}>
+                                                <li>{legend[taxon.vid].machine_name} </li>
+                                                <ul>
+                                                    {taxon.terms.map((tid) => {
+                                                        return (
+                                                            <li key={tid}>
+                                                                {JSON.stringify(legend[taxon.vid].terms[tid])}
+                                                            </li>
+                                                        )
+                                                    })}
+                                                </ul>
+                                            </ul>
+                                        )
+                                    })
+                                    }
+
                                 </li>
                                 {/*<li><JSONPretty key={resource.nid} data={resource}/></li>*/}
                             </ul>
@@ -68,10 +79,6 @@ function Resources() {
     }
 }
 
-function lookupTaxonomies(taxon, legend) {
-    const lookup = legend.find(({vid}) => vid === taxon.vid);
-    return lookup || null;
-}
 
 function App() {
     return <Resources/>;

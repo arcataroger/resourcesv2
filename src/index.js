@@ -8,7 +8,6 @@ import ReactDOM from "react-dom";
 import JavascriptTimeAgo from 'javascript-time-ago';
 import en from 'javascript-time-ago/locale/en';
 import ReactTimeAgo from 'react-time-ago';
-import JSONPretty from 'react-json-pretty';
 import fileSize from "filesize";
 
 JavascriptTimeAgo.addLocale(en);
@@ -55,9 +54,10 @@ function Resources() {
                                                 <li>{legend[taxon.vid].machine_name} </li>
                                                 <ul>
                                                     {taxon.terms.map((tid) => {
+                                                        const termName = legend[taxon.vid].terms[tid];
                                                         return (
                                                             <li key={tid}>
-                                                                {JSON.stringify(legend[taxon.vid].terms[tid])}
+                                                                {termName && JSON.stringify(termName)}
                                                             </li>
                                                         )
                                                     })}
@@ -68,7 +68,6 @@ function Resources() {
                                     }
 
                                 </li>
-                                {/*<li><JSONPretty key={resource.nid} data={resource}/></li>*/}
                             </ul>
                         </div>
                     )}

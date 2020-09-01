@@ -57,7 +57,7 @@ function Resources() {
                                                         const termName = legend[taxon.vid].terms[tid];
                                                         return (
                                                             <li key={tid}>
-                                                                {termName && JSON.stringify(termName)}
+                                                                {JSON.stringify(termName)}
                                                             </li>
                                                         )
                                                     })}

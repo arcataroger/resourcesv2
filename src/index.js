@@ -32,6 +32,11 @@ function Resources() {
                     return (
                         <div key={resource.nid}>
                             <h2>{resource.title}</h2>
+                            <div className="body" dangerouslySetInnerHTML={{__html: resource.body}}>
+                            </div>
+                            <pre>
+                                    {resource.body}
+                            </pre>
                             <ul>
                                 <li>NID: <a href={"http://localhost/node/" + resource.nid + "/edit"}>{resource.nid}</a>
                                 </li>
@@ -45,7 +50,8 @@ function Resources() {
                                         {resource.links &&
                                         resource.links.map((link) => (
                                             <li key={btoa(link.url)}>
-                                                <a href={link.url} target={link.attributes.target || '_self'}>{link.title}</a>
+                                                <a href={link.url}
+                                                   target={link.attributes.target || '_self'}>{link.title}</a>
                                             </li>
                                         ))}
                                     </ul>

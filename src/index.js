@@ -2,12 +2,19 @@ import "./index.css";
 
 import React, {useState, useEffect} from "react";
 import ReactDOM from "react-dom";
+import fileSize from "filesize";
+
+// Relative time, like "Updated 5 months ago"
 import JavascriptTimeAgo from "javascript-time-ago";
 import en from "javascript-time-ago/locale/en";
 import ReactTimeAgo from "react-time-ago";
-import fileSize from "filesize";
+
+
+// For getting rid of pesky span, font, etc. tags
+import striptags from "striptags";
 
 JavascriptTimeAgo.addDefaultLocale(en);
+const allowedTags = ['b','strong','p','i','em','br','a'];
 
 function Resources() {
     const [data, setData] = useState(null);
@@ -29,14 +36,11 @@ function Resources() {
 
                     const milliseconds = resource.timestamp * 1000;
                     const dateString = new Date(milliseconds).toLocaleDateString();
+                    const strippedHTML = striptags(resource.body, allowedTags);
                     return (
                         <div key={resource.nid}>
                             <h2>{resource.title}</h2>
-                            <div className="body" dangerouslySetInnerHTML={{__html: resource.body}}>
-                            </div>
-                            <pre>
-                                    {resource.body}
-                            </pre>
+                            <div className="body" dangerouslySetInnerHTML={{__html: strippedHTML }}/>
                             <ul>
                                 <li>NID: <a href={"http://localhost/node/" + resource.nid + "/edit"}>{resource.nid}</a>
                                 </li>

@@ -7,7 +7,7 @@ import en from "javascript-time-ago/locale/en";
 import ReactTimeAgo from "react-time-ago";
 import fileSize from "filesize";
 
-JavascriptTimeAgo.addLocale(en);
+JavascriptTimeAgo.addDefaultLocale(en);
 
 function Resources() {
     const [data, setData] = useState(null);

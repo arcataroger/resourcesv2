@@ -3,6 +3,8 @@ import "./index.css";
 import React, {useState, useEffect} from "react";
 import ReactDOM from "react-dom";
 import fileSize from "filesize";
+import striptags from "striptags"; // For getting rid of pesky span, font, etc. tags
+import fallbackData from "./data/1-22-2021.json";
 
 // Relative time, like "Updated 5 months ago"
 import JavascriptTimeAgo from "javascript-time-ago";
@@ -10,14 +12,15 @@ import en from "javascript-time-ago/locale/en";
 import ReactTimeAgo from "react-time-ago";
 
 
-// For getting rid of pesky span, font, etc. tags
-import striptags from "striptags";
+
+
 
 JavascriptTimeAgo.addDefaultLocale(en);
 const allowedTags = ['b','strong','p','i','em','br','a'];
 
 function Resources() {
-    const [data, setData] = useState(null);
+    const [data, setData] = useState(fallbackData);
+
     useEffect(() => {
         fetch(`https://tfm-apiv2-field-museum1.pantheonsite.io/apiv2/resources`)
             .then((res) => res.json())

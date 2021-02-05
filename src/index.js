@@ -19,15 +19,18 @@ function Resources() {
     const [data, setData] = useState(fallbackData);
 
     useEffect(() => {
+        getD7();
+    }, []);
+
+    function getD7() {
         fetch('https://tfm-apiv2-field-museum1.pantheonsite.io/apiv2/resources')
             .then((res) => res.json())
             .then(setData)
             .catch(console.error);
-    }, []);
+    }
 
-
-    function clickHandler() {
-        fetch('https://d9resources.fieldmuseum.workers.dev/')
+    function getD9() {
+        fetch('http://127.0.0.1:8787/')
             .then((res) => res.json())
             .then(setData)
             .catch(console.error);
@@ -37,7 +40,8 @@ function Resources() {
         const legend = data.taxonomy_legend;
         return (
             <Fragment>
-            <button onClick={clickHandler}>Get D9 Resources</button>
+            <button onClick={getD7}>Get D7 Resources</button>
+            <button onClick={getD9}>Get D9 Resources</button>
             <div className="resources">
                 <h1>Resources</h1>
                 {data.resources.map((resource) => {
@@ -62,8 +66,7 @@ function Resources() {
                                         {resource.links &&
                                         resource.links.map((link) => (
                                             <li key={btoa(link.url)}>
-                                                <a href={link.url}
-                                                   target={link.attributes.target || '_self'}>{link.title}</a>
+                                                <a href={link.url}>{link.title}</a>
                                             </li>
                                         ))}
                                     </ul>

@@ -1,6 +1,6 @@
 import "./index.css";
 
-import React, {useState, useEffect} from "react";
+import React, {useState, useEffect, Fragment} from "react";
 import ReactDOM from "react-dom";
 import fileSize from "filesize";
 import striptags from "striptags"; // For getting rid of pesky span, font, etc. tags
@@ -12,28 +12,33 @@ import en from "javascript-time-ago/locale/en";
 import ReactTimeAgo from "react-time-ago";
 
 
-
-
-
 JavascriptTimeAgo.addDefaultLocale(en);
-const allowedTags = ['b','strong','p','i','em','br','a'];
+const allowedTags = ['b', 'strong', 'p', 'i', 'em', 'br', 'a'];
 
 function Resources() {
     const [data, setData] = useState(fallbackData);
 
     useEffect(() => {
-        fetch(`https://tfm-apiv2-field-museum1.pantheonsite.io/apiv2/resources`)
+        fetch('https://tfm-apiv2-field-museum1.pantheonsite.io/apiv2/resources')
             .then((res) => res.json())
             .then(setData)
             .catch(console.error);
     }, []);
 
+
+    function clickHandler() {
+        fetch('https://d9resources.fieldmuseum.workers.dev/')
+            .then((res) => res.json())
+            .then(setData)
+            .catch(console.error);
+    }
+
     if (data) {
         const legend = data.taxonomy_legend;
-
-
         return (
-            <div>
+            <Fragment>
+            <button onClick={clickHandler}>Get D9 Resources</button>
+            <div className="resources">
                 <h1>Resources</h1>
                 {data.resources.map((resource) => {
 
@@ -43,7 +48,7 @@ function Resources() {
                     return (
                         <div key={resource.nid}>
                             <h2>{resource.title}</h2>
-                            <div className="body" dangerouslySetInnerHTML={{__html: strippedHTML }}/>
+                            <div className="body" dangerouslySetInnerHTML={{__html: strippedHTML}}/>
                             <ul>
                                 <li>NID: <a href={"http://localhost/node/" + resource.nid + "/edit"}>{resource.nid}</a>
                                 </li>
@@ -76,39 +81,40 @@ function Resources() {
                                     </ul>
                                 </li>
 
-                                <li>
-                                    Taxonomies:
-                                    {resource.taxonomies &&
-                                    resource.taxonomies.map((taxon) => {
-                                        return (
-                                            taxon.vid > 0 && (
-                                                <ul key={taxon.vid}>
-                                                    <li>{taxon.vid}: {legend[taxon.vid].machine_name} </li>
-                                                    <ul>
-                                                        {taxon.terms.map((tid) => {
-                                                            const termData = legend[taxon.vid].terms[tid];
-                                                            return (
-                                                                <li key={tid}>{tid}: {termData && termData.name}</li>
-                                                            );
-                                                        })}
-                                                    </ul>
-                                                </ul>
-                                            )
-                                        );
-                                    })}
-                                </li>
+                                {/*<li>*/}
+                                {/*    Taxonomies:*/}
+                                {/*    {resource.taxonomies &&*/}
+                                {/*    resource.taxonomies.map((taxon) => {*/}
+                                {/*        return (*/}
+                                {/*            taxon.vid > 0 && (*/}
+                                {/*                <ul key={taxon.vid}>*/}
+                                {/*                    <li>{taxon.vid}: {legend[taxon.vid].machine_name} </li>*/}
+                                {/*                    <ul>*/}
+                                {/*                        {taxon.terms.map((tid) => {*/}
+                                {/*                            const termData = legend[taxon.vid].terms[tid];*/}
+                                {/*                            return (*/}
+                                {/*                                <li key={tid}>{tid}: {termData && termData.name}</li>*/}
+                                {/*                            );*/}
+                                {/*                        })}*/}
+                                {/*                    </ul>*/}
+                                {/*                </ul>*/}
+                                {/*            )*/}
+                                {/*        );*/}
+                                {/*    })}*/}
+                                {/*</li>*/}
                             </ul>
                         </div>
                     )
                 })}
             </div>
+            </Fragment>
         );
     } else {
         return null;
     }
 }
 
-function App() {
+const App = () => {
     return <Resources/>;
 }
 

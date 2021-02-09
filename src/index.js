@@ -30,7 +30,7 @@ function Resources() {
     }
 
     function getD9() {
-        fetch('http://127.0.0.1:8787/')
+        fetch('https://d9resources.fieldmuseum.workers.dev/')
             .then((res) => res.json())
             .then(setData)
             .catch(console.error);
